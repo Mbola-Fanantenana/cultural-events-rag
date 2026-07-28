@@ -1,0 +1,62 @@
+[
+  {
+    "horodatage": "20260714_142141",
+    "nb_nouveaux": 297,
+    "nb_avant_fusion": 297,
+    "nb_apres_fusion": 297,
+    "nb_ajoutes": 0,
+    "nb_mis_a_jour": 0,
+    "nb_doublons": 297,
+    "fichier_version": "project\\data\\raw\\versions\\evenements_bruts_20260714_142141.json"
+  },
+  {
+    "horodatage": "20260714_142227",
+    "nb_nouveaux": 297,
+    "nb_avant_fusion": 297,
+    "nb_apres_fusion": 297,
+    "nb_ajoutes": 0,
+    "nb_mis_a_jour": 0,
+    "nb_doublons": 297,
+    "fichier_version": "project\\data\\raw\\versions\\evenements_bruts_20260714_142227.json"
+  },
+  {
+    "horodatage": "20260714_144451",
+    "nb_nouveaux": 297,
+    "nb_avant_fusion": 297,
+    "nb_apres_fusion": 297,
+    "nb_ajoutes": 0,
+    "nb_mis_a_jour": 0,
+    "nb_doublons": 297,
+    "fichier_version": "project\\data\\raw\\versions\\evenements_bruts_20260714_144451.json"
+  },
+  {
+    "horodatage": "20260714_145913",
+    "nb_nouveaux": 297,
+    "nb_avant_fusion": 297,
+    "nb_apres_fusion": 297,
+    "nb_ajoutes": 0,
+    "nb_mis_a_jour": 0,
+    "nb_doublons": 297,
+    "fichier_version": "project\\data\\raw\\versions\\evenements_bruts_20260714_145913.json"
+  },
+  {
+    "horodatage": "20260714_150639",
+    "nb_nouveaux": 297,
+    "nb_avant_fusion": 297,
+    "nb_apres_fusion": 297,
+    "nb_ajoutes": 0,
+    "nb_mis_a_jour": 0,
+    "nb_doublons": 297,
+    "fichier_version": "project\\data\\raw\\versions\\evenements_bruts_20260714_150639.json"
+  },
+  {
+    "horodatage": "20260714_150721",
+    "nb_nouveaux": 278,
+    "nb_avant_fusion": 297,
+    "nb_apres_fusion": 575,
+    "nb_ajoutes": 278,
+    "nb_mis_a_jour": 0,
+    "nb_doublons": 0,
+    "fichier_version": "project\\data\\raw\\versions\\evenements_bruts_20260714_150721.json"
+  }
+]

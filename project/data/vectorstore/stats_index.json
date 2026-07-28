@@ -1,0 +1,8 @@
+{
+  "dimension": 1024,
+  "nombre_vecteurs": 405,
+  "type_index": "IndexFlatL2",
+  "is_trained": true,
+  "nb_metadata": 405,
+  "coherent": true
+}

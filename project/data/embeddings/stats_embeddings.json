@@ -1,0 +1,11 @@
+{
+  "total_events": 405,
+  "total_tokens": 163676,
+  "total_time": 64.02834510803223,
+  "errors": 0,
+  "batch_size": 10,
+  "dimension": 1024,
+  "nombre_embeddings": 405,
+  "modele": "mistral-embed",
+  "erreurs_details": []
+}

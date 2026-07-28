@@ -1,0 +1,63 @@
+{
+  "nombre_evenements": 405,
+  "colonnes": [
+    "id",
+    "titre",
+    "description",
+    "description_longue",
+    "ville",
+    "adresse",
+    "region",
+    "date_debut",
+    "date_fin",
+    "categories",
+    "url",
+    "texte_complet"
+  ],
+  "villes_principales": {
+    "Villiers-sur-Marne": 30,
+    "Wattignies": 29,
+    "Bordeaux": 27,
+    "Orbec": 25,
+    "Nantes": 24,
+    "Toulouse": 19,
+    "Évry-Courcouronnes": 18,
+    "Alès": 16,
+    "Paris": 9,
+    "Genève": 9,
+    "Tocane-Saint-Apre": 8,
+    "Grasse": 8,
+    "Pacé": 7,
+    "Rouen": 7,
+    "Nevers": 6,
+    "Bessenay": 6,
+    "Saint-Jean-de-Braye": 5,
+    "Gramont": 5,
+    "Grigny": 5,
+    "Orléans": 4
+  },
+  "completude": {
+    "id": "100.0%",
+    "titre": "100.0%",
+    "description": "100.0%",
+    "description_longue": "89.6%",
+    "ville": "100.0%",
+    "adresse": "100.0%",
+    "region": "100.0%",
+    "date_debut": "100.0%",
+    "date_fin": "100.0%",
+    "categories": "49.6%",
+    "url": "100.0%",
+    "texte_complet": "100.0%"
+  },
+  "statistiques_texte": {
+    "description_min": 50,
+    "description_max": 200,
+    "description_moyenne": 133,
+    "texte_complet_min": 201,
+    "texte_complet_max": 9926,
+    "texte_complet_moyenne": 1100
+  },
+  "taux_avec_dates": "100.0%",
+  "taux_avec_url": "100.0%"
+}

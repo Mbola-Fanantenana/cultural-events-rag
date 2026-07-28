@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "37269048",
+    "titre": "Fest Deiz Molac",
+    "ville": "Molac",
+    "date_debut": "2026-11-15 14:30:00",
+    "url": "https://openagenda.com/andon/events/fest-deiz-molac-509700",
+    "index": 0
+  },
+  {
+    "id": "22260426",
+    "titre": "Imugi l’apprenti dragon",
+    "ville": "Paris",
+    "date_debut": "2026-07-28 10:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/imugi-lapprenti-dragon-5929560",
+    "index": 1
+  },
+  {
+    "id": "51821144",
+    "titre": "Baba Yaga la sorcière",
+    "ville": "Paris",
+    "date_debut": "2026-07-28 14:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/baba-yaga-la-sorciere-8454026",
+    "index": 2
+  },
+  {
+    "id": "72410541",
+    "titre": "Lieu d'Accueil Enfants Parents à L'Éprouvette",
+    "ville": "Saint-André-des-Eaux",
+    "date_debut": "2026-03-26 08:45:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/lieu-daccueil-enfants-parents-a-leprouvette",
+    "index": 3
+  },
+  {
+    "id": "19349399",
+    "titre": "Baby STREAM club",
+    "ville": "Paris",
+    "date_debut": "2025-12-02 10:15:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/baby-stream-club",
+    "index": 4
+  },
+  {
+    "id": "57745435",
+    "titre": "Baba Yaga la sorcière",
+    "ville": "Paris",
+    "date_debut": "2026-04-29 14:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/baba-yaga-la-sorciere-2909150",
+    "index": 5
+  },
+  {
+    "id": "91855651",
+    "titre": "Baba Yaga la sorcière, conte en théâtre d'ombres",
+    "ville": "Paris",
+    "date_debut": "2026-04-29 14:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/baba-yaga-la-sorciere-conte-en-theatre-dombres-9539203",
+    "index": 6
+  },
+  {
+    "id": "6790435",
+    "titre": "Exposition \"Que font les parents quand les enfants dorment ?\"",
+    "ville": "Chambéry",
+    "date_debut": "2026-03-04 10:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/exposition-que-font-les-parents-quand-les-enfants-dorment",
+    "index": 7
+  },
+  {
+    "id": "60869079",
+    "titre": "La Semaine de la Petite Enfance s'invite à la crèche du 16 au 26/03!",
+    "ville": "Saint-Joseph-de-Rivière",
+    "date_debut": "2026-03-16 08:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/la-semaine-de-la-petite-enfance-sinvite-a-la-creche-du-16-au-2603",
+    "index": 8
+  },
+  {
+    "id": "88794085",
+    "titre": "Une semaine \"petite enfance\" à la médiathèque",
+    "ville": "Sorgues",
+    "date_debut": "2026-04-10 10:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/une-semaine-petite-enfance-a-la-mediatheque-3304958",
+    "index": 9
+  },
+  {
+    "id": "32293216",
+    "titre": "Essayons de trouver l'équilibre",
+    "ville": "Bagnols-en-Forêt",
+    "date_debut": "2026-03-16 08:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/essayons-de-trouver-lequilibre",
+    "index": 10
+  },
+  {
+    "id": "24463695",
+    "titre": "Matinées Eveil",
+    "ville": "Bégrolles-en-Mauges",
+    "date_debut": "2026-03-16 09:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/matinees-eveil",
+    "index": 11
+  },
+  {
+    "id": "60359965",
+    "titre": "Ateliers Assistantes maternelles, parents et enfants",
+    "ville": "Noisy-le-Grand",
+    "date_debut": "2026-03-16 09:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/ateliers-assistantes-maternelles-parents-et-enfants",
+    "index": 12
+  },
+  {
+    "id": "61801529",
+    "titre": "Notre programme pour la semaine de la petite enfance",
+    "ville": "Vieux-Habitants",
+    "date_debut": "2026-03-16 09:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/notre-programme-pour-la-semaine-de-la-petite-enfance",
+    "index": 13
+  },
+  {
+    "id": "29121735",
+    "titre": "Ateliers parents/enfants autour des déséquilibres",
+    "ville": "Pointe-à-Pitre",
+    "date_debut": "2026-03-16 08:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/ateliers-parentsenfants-autour-des-desequilibre",
+    "index": 14
+  },
+  {
+    "id": "9726101",
+    "titre": "Une semaine \"petite enfance\" à la médiathèque",
+    "ville": "Sorgues",
+    "date_debut": "2026-04-10 10:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/une-semaine-petite-enfance-a-la-mediatheque",
+    "index": 15
+  },
+  {
+    "id": "94642402",
+    "titre": "Semaine Nationale de la Petite Enfance RPE Intercommunal Mézières sur Seine",
+    "ville": "Mézières-sur-Seine",
+    "date_debut": "2026-04-11 09:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/semaine-nationale-de-la-petite-enfance-rpe-intercommunal-mezieres-sur-seine",
+    "index": 16
+  },
+  {
+    "id": "24301738",
+    "titre": "un monde en couleurs",
+    "ville": "Saint-Jean-de-Braye",
+    "date_debut": "2026-03-10 13:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/un-monde-en-couleurs",
+    "index": 17
+  },
+  {
+    "id": "43249091",
+    "titre": "Trop P'tits Party 2026",
+    "ville": "Val-au-Perche",
+    "date_debut": "2026-03-14 10:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/trop-ptits-party-2026-9893757",
+    "index": 18
+  },
+  {
+    "id": "33989847",
+    "titre": "Ne pas déranger, nous jouons !",
+    "ville": "Saint-Jean-de-Braye",
+    "date_debut": "2026-03-19 09:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/ne-pas-deranger-nous-jouons",
+    "index": 19
+  },
+  {
+    "id": "10258297",
+    "titre": "rando-poussettes",
+    "ville": "Saint-Jean-de-Braye",
+    "date_debut": "2026-04-01 10:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/rando-poussettes-2552555",
+    "index": 20
+  },
+  {
+    "id": "13177829",
+    "titre": "Des équilibres en couleurs",
+    "ville": "Feignies",
+    "date_debut": "2026-03-02 13:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/des-equilibres-en-couleurs",
+    "index": 21
+  },
+  {
+    "id": "77144095",
+    "titre": "Y'a pas d'âge pour s'émerveiller",
+    "ville": "Saint-Jean-de-Braye",
+    "date_debut": "2026-03-31 10:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/ya-pas-dage-pour-semerveiller",
+    "index": 22
+  },
+  {
+    "id": "12614012",
+    "titre": "Exposition \"1, 2, 3 explore\" par l'artiste Clouk",
+    "ville": "Villeneuve-d'Ascq",
+    "date_debut": "2026-03-14 15:00:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/exposition-1-2-3-explore-par-lartiste-clouk",
+    "index": 23
+  },
+  {
+    "id": "27594363",
+    "titre": "Village des Mômes",
+    "ville": "Magnac-Laval",
+    "date_debut": "2026-03-25 09:30:00",
+    "url": "https://openagenda.com/semainepetiteenfance/events/village-des-momes-992790",
+    "index": 24
+  },
+  {
+    "id": "73982832",
+    "titre": "Requiem de Mozart: Le Chœur CRESCENDO et l'ensemble DODEKA en concert",
+    "ville": "Fourchambault",
+    "date_debut": "2026-10-11 16:00:00",
+    "url": "https://openagenda.com/choeur-crescendo-nevers/events/requiem-de-mozart-le-choeur-crescendo-et-lensemble-dodeka-en-concert",
+    "index": 25
+  },
+  {
+    "id": "44169244",
+    "titre": "Le Chœur Varenne de Paris en Concert",
+    "ville": "Nevers",
+    "date_debut": "2026-05-30 20:45:00",
+    "url": "https://openagenda.com/choeur-crescendo-nevers/events/le-choeur-varenne-de-paris-en-concert",
+    "index": 26
+  },
+  {
+    "id": "86283266",
+    "titre": "MUSIQUE AU TEMPS DES CARAVELLES - Chansons du Cancionero del Palacio 1500",
+    "ville": "Nevers",
+    "date_debut": "2025-05-11 17:00:00",
+    "url": "https://openagenda.com/choeur-crescendo-nevers/events/musique-au-temps-des-caravelles-chansons-du-cancionero-del-palacio-1500",
+    "index": 27
+  },
+  {
+    "id": "16013351",
+    "titre": "MISATANGO \"Messe à Bueno Aires\" de Martin Palmeri",
+    "ville": "Nevers",
+    "date_debut": "2024-10-05 20:00:00",
+    "url": "https://openagenda.com/choeur-crescendo-nevers/events/7240425",
+    "index": 28
+  },
+  {
+    "id": "20465618",
+    "titre": "La Librairie de Monsieur Jean \"Conte musical de Julien Joubert\"",
+    "ville": "Nevers",
+    "date_debut": "2023-04-02 17:00:00",
+    "url": "https://openagenda.com/choeur-crescendo-nevers/events/la-librairie-de-monsieur-jean-conte-musical-de-julien-joubert",
+    "index": 29
+  },
+  {
+    "id": "86135098",
+    "titre": "« La librairie de Monsieur Jean » Comédie musicale de Julien Joubert",
+    "ville": "Nevers",
+    "date_debut": "2023-04-02 17:00:00",
+    "url": "https://openagenda.com/choeur-crescendo-nevers/events/la-librairie-de-monsieur-jean-comedie-musicale-de-julien-joubert",
+    "index": 30
+  },
+  {
+    "id": "42378483",
+    "titre": "CONCERT DE CHANT CHORAL",
+    "ville": "Nevers",
+    "date_debut": "2023-01-14 18:00:00",
+    "url": "https://openagenda.com/choeur-crescendo-nevers/events/concert-de-chant-choral-6493518",
+    "index": 31
+  },
+  {
+    "id": "90796728",
+    "titre": "Visite guidée de la préfecture de la région Centre-Val de Loire et du Loiret",
+    "ville": "Orléans",
+    "date_debut": "2026-09-19 09:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-guidee-de-la-prefecture-de-la-region-centre-val-de-loire-et-du-loiret",
+    "index": 32
+  },
+  {
+    "id": "39126687",
+    "titre": "Visite d'une Chapelle templière entièrement restaurée",
+    "ville": "Brécy",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/journees-europeennes-du-patrimoine-1369534",
+    "index": 33
+  },
+  {
+    "id": "84379955",
+    "titre": "Visite commentée de l'église abbatiale",
+    "ville": "Méobecq",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-commentee-eglise-abbatiale-de-meobecq",
+    "index": 34
+  },
+  {
+    "id": "82513668",
+    "titre": "Visite du palais Jacques Cœur",
+    "ville": "Bourges",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-du-palais-jacques-coeur",
+    "index": 35
+  },
+  {
+    "id": "8547257",
+    "titre": "Dans les coulisses des Archives",
+    "ville": "Mainvilliers",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/detras-de-las-escenas-del-archivo-1623872",
+    "index": 36
+  },
+  {
+    "id": "49520751",
+    "titre": "Visite guidée de la tour de l’horloge",
+    "ville": "Amboise",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-guidee-de-la-tour-de-lhorloge-4784405",
+    "index": 37
+  },
+  {
+    "id": "54815173",
+    "titre": "Loger à Chambord à la Renaissance",
+    "ville": "Chambord",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/alojarse-en-chambord-al-renacimiento",
+    "index": 38
+  },
+  {
+    "id": "40453097",
+    "titre": "Visite guidée spéciale \"L'histoire des restaurations au château royal d'Amboise\"",
+    "ville": "Amboise",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-guidee-speciale-lhistoire-des-restaurations-au-chateau-royal-damboise",
+    "index": 39
+  },
+  {
+    "id": "23839479",
+    "titre": "Visite guidée du Château du Gué-Péan",
+    "ville": "Monthou-sur-Cher",
+    "date_debut": "2026-09-19 10:30:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-guidee-du-chateau-du-gue-pean-mh-habite-et-meuble",
+    "index": 40
+  },
+  {
+    "id": "59718469",
+    "titre": "Visite guidée du couvent des Ursulines",
+    "ville": "Beaugency",
+    "date_debut": "2026-09-19 14:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-guidee-du-couvent-des-ursulines-1346174",
+    "index": 41
+  },
+  {
+    "id": "11471097",
+    "titre": "Visites commentées du château de Rochambeau",
+    "ville": "Thoré-la-Rochette",
+    "date_debut": "2026-09-19 15:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visites-commentees-du-chateau-de-rochambeau",
+    "index": 42
+  },
+  {
+    "id": "58992767",
+    "titre": "Initiation à la pratique de la boule de Fort pour les scolaires",
+    "ville": "Chinon",
+    "date_debut": "2026-09-18 08:30:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/iniciacion-a-la-practica-de-la-bola-de-fort-1324324",
+    "index": 43
+  },
+  {
+    "id": "74389249",
+    "titre": "De la pierre au carton : 520 ans d’histoire vivante",
+    "ville": "Bourges",
+    "date_debut": "2026-09-18 09:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/de-la-pierre-au-carton-520-ans-dhistoire-vivante",
+    "index": 44
+  },
+  {
+    "id": "36670010",
+    "titre": "Visite guidée par un magistrat",
+    "ville": "Orléans",
+    "date_debut": "2026-09-18 09:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-guidee-par-un-magistrat-3297371",
+    "index": 45
+  },
+  {
+    "id": "34827144",
+    "titre": "Visite et exposition commentée",
+    "ville": "Blois",
+    "date_debut": "2026-09-18 09:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-et-exposition-commentee",
+    "index": 46
+  },
+  {
+    "id": "46759527",
+    "titre": "Réplique de l'avion Blériot XI",
+    "ville": "Vendôme",
+    "date_debut": "2026-09-18 09:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/replique-de-lavion-bleriot-xi-818669",
+    "index": 47
+  },
+  {
+    "id": "8578918",
+    "titre": "Visite commentée de la salle de l'Institut",
+    "ville": "Orléans",
+    "date_debut": "2026-09-18 09:15:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-commentee-de-la-salle-de-linstitut-8470632",
+    "index": 48
+  },
+  {
+    "id": "54126240",
+    "titre": "Découverte de l'Atelier Calder",
+    "ville": "Saché",
+    "date_debut": "2026-09-18 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visita-guiada-427415",
+    "index": 49
+  },
+  {
+    "id": "42659743",
+    "titre": "Train touristique du Bas-Berry",
+    "ville": "Écueillé",
+    "date_debut": "2026-09-18 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/tren-turistico-de-bas-berry-9627842",
+    "index": 50
+  },
+  {
+    "id": "29075875",
+    "titre": "Atelier \"Pas touche à mon épi\"",
+    "ville": "Thiron-Gardais",
+    "date_debut": "2026-09-18 10:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/atelier-pas-touche-a-mon-epi",
+    "index": 51
+  },
+  {
+    "id": "54963608",
+    "titre": "Visite guidée du Château de Fontenay",
+    "ville": "Lignières-de-Touraine",
+    "date_debut": "2026-09-18 10:30:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-guidee-du-chateau-de-fontenay",
+    "index": 52
+  },
+  {
+    "id": "49646678",
+    "titre": "Exposition photos : églises d'Eure-et-Loir, elles animent nos paysages",
+    "ville": "Saint-Jean-de-Rebervilliers",
+    "date_debut": "2026-09-18 11:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/exposition-photos-eglises-deure-et-loir-elles-animent-nos-paysages",
+    "index": 53
+  },
+  {
+    "id": "78864915",
+    "titre": "Visite de la Grange pyramidale du Pays-Fort",
+    "ville": "Vailly-sur-Sauldre",
+    "date_debut": "2026-09-18 13:15:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visite-de-la-grange-pyramidale-du-pays-fort",
+    "index": 54
+  },
+  {
+    "id": "88379830",
+    "titre": "Les Enfants du Patrimoine",
+    "ville": "Vernouillet",
+    "date_debut": "2026-09-18 14:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/les-enfants-du-patrimoine-5757028",
+    "index": 55
+  },
+  {
+    "id": "59888016",
+    "titre": "Les Enfants du Patrimoine",
+    "ville": "Chartres",
+    "date_debut": "2026-09-18 14:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/les-enfants-du-patrimoine-16705",
+    "index": 56
+  },
+  {
+    "id": "97963051",
+    "titre": "Visites guidées scolaires de la résidence Ciclic Animation (sur inscription)",
+    "ville": "Vendôme",
+    "date_debut": "2026-09-18 14:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/visites-guidees-scolaires-de-la-residence-ciclic-animation-sur-inscription",
+    "index": 57
+  },
+  {
+    "id": "41695740",
+    "titre": "Sensibilisation à l'architecture à destination des scolaires",
+    "ville": "Le Subdray",
+    "date_debut": "2026-09-18 14:00:00",
+    "url": "https://openagenda.com/jep-2026-centre-val-de-loire/events/sensibilisation-a-larchitecture-a-destination-des-scolaires",
+    "index": 58
+  },
+  {
+    "id": "46209840",
+    "titre": "Conférence internationale IEEE ARM 2026 à l’Université Évry Paris-Saclay",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-07-21 09:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/conference-internationale-ieee-sur-la-robotique-avancee-et-la-mecatronique-ieee-arm",
+    "index": 59
+  },
+  {
+    "id": "90633209",
+    "titre": "Journées Portes Ouvertes de la FDME",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-09-10 16:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/journees-portes-ouvertes-fdme",
+    "index": 60
+  },
+  {
+    "id": "52021518",
+    "titre": "Conférence Thérapies Innovantes et Combinatoires",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-07-02 10:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/conference-therapies-innovantes-et-combinatoires",
+    "index": 61
+  },
+  {
+    "id": "86977658",
+    "titre": "FAIM 2026 : conférence internationale de référence sur l’Industrie 5.0",
+    "ville": "Lieusaint",
+    "date_debut": "2026-06-21 13:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/webinaire-accelerez-vos-projets-industriels-avec-lia-la-rse-et-lingenierie-pluridisciplinaire",
+    "index": 62
+  },
+  {
+    "id": "14144628",
+    "titre": "Séminaire ESSI - IA & entreprises : stratégies, cas d’usage et ateliers pratiques",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-12 08:30:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/ia-and-entreprises-decouvrez-des-solutions-concretes-pour-transformer-vos-activites",
+    "index": 63
+  },
+  {
+    "id": "54365457",
+    "titre": "D4Gen Hackathon 2026",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-05 09:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/d4gen-hackathon-2026-48h-pour-transformer-votre-projet-biotech-et-gagner-jusqua-10-000-euro",
+    "index": 64
+  },
+  {
+    "id": "90868390",
+    "titre": "Forum de Printemps d'IMT-BS",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-18 13:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/forum-de-printemps-imt-bs",
+    "index": 65
+  },
+  {
+    "id": "89534299",
+    "titre": "Job Dating de l’IRFASE",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-10 14:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/job-dating-de-lirfase",
+    "index": 66
+  },
+  {
+    "id": "12060442",
+    "titre": "Challenge cybersécurité 404 CTF",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-05-16 09:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/challenge-cybersecurite-404-ctf-6651901",
+    "index": 67
+  },
+  {
+    "id": "94878348",
+    "titre": "Journée Nationale de la Bioproduction de Biomédicaments",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-04 09:30:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/journee-nationale-de-la-bioproduction-de-biomedicaments-884898",
+    "index": 68
+  },
+  {
+    "id": "95253851",
+    "titre": "L’impact de l’IA sur la transformation des métiers : quelles formations pour anticiper les besoins ?",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-04 10:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/partners-day",
+    "index": 69
+  },
+  {
+    "id": "44890549",
+    "titre": "Matinales du Management : Kaamelott ou apprendre à manager dans l’ère digitale",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-03 08:30:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/kaamelott-ou-apprendre-a-manager-dans-lere-digitale",
+    "index": 70
+  },
+  {
+    "id": "86433321",
+    "titre": "Sécurité économique : nouveaux risques, nouveaux enjeux",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-06-02 17:30:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/rencontre-securite-economique-nouveaux-risques-nouveaux-enjeux",
+    "index": 71
+  },
+  {
+    "id": "75113569",
+    "titre": "Colloque ÉvryBio 2026",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-05-20 08:30:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/colloque-evrybio-2026",
+    "index": 72
+  },
+  {
+    "id": "54626121",
+    "titre": "Scèn’Art Festival - Édition 2026",
+    "ville": "Lieusaint",
+    "date_debut": "2026-05-19 14:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/scenart-festival-edition-2026",
+    "index": 73
+  },
+  {
+    "id": "76466645",
+    "titre": "Forum de recrutement - CFA EVE",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-05-07 09:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/forum-de-recrutement-cfa-eve",
+    "index": 74
+  },
+  {
+    "id": "85984870",
+    "titre": "Colloque « Le travail de la transition »",
+    "ville": "Lieusaint",
+    "date_debut": "2026-04-15 08:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/colloque-le-travail-de-la-transition",
+    "index": 75
+  },
+  {
+    "id": "33931467",
+    "titre": "Les mercredis de l'apprentissage de la FDME",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-04-15 14:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/les-mercredis-de-lapprentissage-fdme",
+    "index": 76
+  },
+  {
+    "id": "73233483",
+    "titre": "JobDating ensIIE & CFA EVE – Rencontrez vos futurs talents en informatique",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-04-02 10:00:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/jobdating-ensiie-and-cfa-eve-rencontrez-vos-futurs-talents-en-informatique",
+    "index": 77
+  },
+  {
+    "id": "15625947",
+    "titre": "Conférence MiCLOUD 2026 : La souveraineté numérique",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-03-19 14:30:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/telecom-sudparis-conference-micloud-2026-la-souverainete-numerique",
+    "index": 78
+  },
+  {
+    "id": "28004134",
+    "titre": "Lancement du parcours Innov’Action - Université Évry Paris-Saclay",
+    "ville": "Évry-Courcouronnes",
+    "date_debut": "2026-03-19 12:30:00",
+    "url": "https://openagenda.com/evry-senart-innovation/events/lancement-du-parcours-innovaction-universite-evry-paris-saclay",
+    "index": 79
+  },
+  {
+    "id": "63243757",
+    "titre": "La Bride",
+    "ville": "Paris",
+    "date_debut": "2026-07-11 12:00:00",
+    "url": "https://openagenda.com/galerie-kramer-exhibitions/events/la-bride",
+    "index": 80
+  },
+  {
+    "id": "23288031",
+    "titre": "Enregistrement live de votre set",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-19 10:00:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/enregistrement-live-de-votre-set",
+    "index": 81
+  },
+  {
+    "id": "90220672",
+    "titre": "Projection du film: La musique irlandaise en France - la 6e province ?",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-19 19:00:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/projection-du-film-la-musique-irlandaise-en-france-la-6e-province",
+    "index": 82
+  },
+  {
+    "id": "10304858",
+    "titre": "Session animée avec les Irlandais",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-19 21:30:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/session-animee-avec-les-irlandais-9025335",
+    "index": 83
+  },
+  {
+    "id": "51508510",
+    "titre": "Session animée avec les Irlandais",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-19 21:30:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/session-animee-avec-les-irlandais",
+    "index": 84
+  },
+  {
+    "id": "1184432",
+    "titre": "Session animée avec les Irlandais",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-20 21:30:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/session-animee-avec-les-irlandais-8143362",
+    "index": 85
+  },
+  {
+    "id": "10113027",
+    "titre": "Session animée avec les Irlandais",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-20 21:30:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/session-animee-avec-les-irlandais-458456",
+    "index": 86
+  },
+  {
+    "id": "35549278",
+    "titre": "Session animée avec les Irlandais",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-21 21:30:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/session-animee-avec-les-irlandais-4449831",
+    "index": 87
+  },
+  {
+    "id": "55163940",
+    "titre": "Session animée avec les Irlandais",
+    "ville": "Tocane-Saint-Apre",
+    "date_debut": "2026-07-21 21:30:00",
+    "url": "https://openagenda.com/rencontres-irlandaises-tocane-programme/events/session-animee-avec-les-irlandais-4874909",
+    "index": 88
+  },
+  {
+    "id": "80094503",
+    "titre": "La Couleur des Murs . Joël Foulet",
+    "ville": "Avignon",
+    "date_debut": "2026-07-16 14:45:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/la-couleur-des-murs-6187578",
+    "index": 89
+  },
+  {
+    "id": "76207072",
+    "titre": "Jeannot Tête en l'air . Patrick Mégale",
+    "ville": "Péone",
+    "date_debut": "2026-07-17 16:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/jeannot-tete-en-lair-patrick-megale",
+    "index": 90
+  },
+  {
+    "id": "80624599",
+    "titre": "Art et science . Milao",
+    "ville": "Saorge",
+    "date_debut": "2026-07-19 10:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/art-et-science-9567925",
+    "index": 91
+  },
+  {
+    "id": "38600520",
+    "titre": "Les Contes des Alpages . Patrick Mégale",
+    "ville": "Péone",
+    "date_debut": "2026-07-19 16:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/les-contes-des-alpages",
+    "index": 92
+  },
+  {
+    "id": "7485023",
+    "titre": "Parole de Nuit . Martine Jaegly . (Festival du Conte en Vallouise)",
+    "ville": "Vallouise-Pelvoux",
+    "date_debut": "2026-07-21 20:30:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/parole-de-nuit",
+    "index": 93
+  },
+  {
+    "id": "8775370",
+    "titre": "Sur les grands Chemins . Martine Jaegly . (Festival du Conte en Vallouise)",
+    "ville": "Vallouise-Pelvoux",
+    "date_debut": "2026-07-22 17:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/sur-les-grands-chemins-martine-jaegly-festival-du-conte-en-vallouise",
+    "index": 94
+  },
+  {
+    "id": "23006057",
+    "titre": "Nuit du Conte . Magali Monteils Cottereau . Joëlle Massard . Nourhène Kelly",
+    "ville": "Velleron",
+    "date_debut": "2026-07-24 21:30:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/nuit-du-conte-77571",
+    "index": 95
+  },
+  {
+    "id": "41022834",
+    "titre": "Dans mes Petits Papiers . Sandrine Marneux",
+    "ville": "Velleron",
+    "date_debut": "2026-07-25 10:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/dans-mes-petits-papiers",
+    "index": 96
+  },
+  {
+    "id": "71968118",
+    "titre": "Le Conte est Bon . Milao",
+    "ville": "Tourette sur Loup",
+    "date_debut": "2026-07-25 18:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/le-conte-est-bon-7132828",
+    "index": 97
+  },
+  {
+    "id": "20115716",
+    "titre": "Dans mes Petits Papiers . Sandrine Marneux",
+    "ville": "Auron",
+    "date_debut": "2026-07-26 11:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/dans-mes-petits-papiers-4237867",
+    "index": 98
+  },
+  {
+    "id": "40696685",
+    "titre": "Le Chant de l'Ours . Sandrine Marneux . Luc Canavesio",
+    "ville": "Auron",
+    "date_debut": "2026-07-26 17:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/le-chant-de-lours",
+    "index": 99
+  },
+  {
+    "id": "54863359",
+    "titre": "Balade Contée . Martine Jaegly",
+    "ville": "Tourtour",
+    "date_debut": "2026-07-29 18:30:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/balade-contee-4097123",
+    "index": 100
+  },
+  {
+    "id": "23341146",
+    "titre": "Le Soleil ne dort presque pas . Christine Giraud",
+    "ville": "Isola",
+    "date_debut": "2026-07-31 18:00:00",
+    "url": "https://openagenda.com/la-compagnie-de-la-hulotte/events/le-soleil-ne-dort-presque-pas",
+    "index": 101
+  },
+  {
+    "id": "76188593",
+    "titre": "Locronan - Jeu de piste",
+    "ville": "Locronan",
+    "date_debut": "2026-07-18 18:00:00",
+    "url": "https://openagenda.com/sprev/events/locronan-jeu-de-piste",
+    "index": 102
+  },
+  {
+    "id": "37902275",
+    "titre": "Soirée Jeux",
+    "ville": "Pacé",
+    "date_debut": "2026-09-11 20:00:00",
+    "url": "https://openagenda.com/totems-pace/events/soiree-jeux-3946695",
+    "index": 103
+  },
+  {
+    "id": "62334834",
+    "titre": "Braderie",
+    "ville": "Pacé",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/totems-pace/events/braderie-7367238",
+    "index": 104
+  },
+  {
+    "id": "8391055",
+    "titre": "Bébés lecteurs",
+    "ville": "Pacé",
+    "date_debut": "2026-09-25 09:30:00",
+    "url": "https://openagenda.com/totems-pace/events/bebes-lecteurs-6554917",
+    "index": 105
+  },
+  {
+    "id": "13653533",
+    "titre": "Histoires d'en parler",
+    "ville": "Pacé",
+    "date_debut": "2026-09-26 10:30:00",
+    "url": "https://openagenda.com/totems-pace/events/histoires-den-parler-9405190",
+    "index": 106
+  },
+  {
+    "id": "41501908",
+    "titre": "Partir en livres",
+    "ville": "Pacé",
+    "date_debut": "2026-07-07 15:30:00",
+    "url": "https://openagenda.com/totems-pace/events/partir-en-livres-76199",
+    "index": 107
+  },
+  {
+    "id": "84145932",
+    "titre": "Boom boom buzz",
+    "ville": "Pacé",
+    "date_debut": "2026-07-03 20:00:00",
+    "url": "https://openagenda.com/totems-pace/events/boom-boom-buzz-3696519",
+    "index": 108
+  },
+  {
+    "id": "31534703",
+    "titre": "Apéro bulles",
+    "ville": "Pacé",
+    "date_debut": "2026-07-02 19:30:00",
+    "url": "https://openagenda.com/totems-pace/events/apero-bulles-7668766",
+    "index": 109
+  },
+  {
+    "id": "67419530",
+    "titre": "Exposition de fin d'année de l'Ecole municipale des arts",
+    "ville": "Wattignies",
+    "date_debut": "2026-06-30 08:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/exposition-de-fin-dannee-de-lecole-municipale-des-arts",
+    "index": 110
+  },
+  {
+    "id": "30764942",
+    "titre": "Fête nationale à Wattignies",
+    "ville": "Wattignies",
+    "date_debut": "2026-07-13 23:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/fete-nationale-a-wattignies",
+    "index": 111
+  },
+  {
+    "id": "68870999",
+    "titre": "Atelier \"Plantes comestibles\"",
+    "ville": "Wattignies",
+    "date_debut": "2026-07-15 09:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/atelier-plantes-comestibles",
+    "index": 112
+  },
+  {
+    "id": "98769741",
+    "titre": "Marché aux trouvailles",
+    "ville": "Wattignies",
+    "date_debut": "2026-07-15 15:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/marche-aux-trouvailles",
+    "index": 113
+  },
+  {
+    "id": "71850943",
+    "titre": "Nos quartiers d'été",
+    "ville": "Wattignies",
+    "date_debut": "2026-07-08 18:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/nos-quartiers-dete-6231663",
+    "index": 114
+  },
+  {
+    "id": "16343804",
+    "titre": "Place des métiers",
+    "ville": "Wattignies",
+    "date_debut": "2026-07-09 09:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/place-des-metiers",
+    "index": 115
+  },
+  {
+    "id": "2443534",
+    "titre": "Green Line Marching Band",
+    "ville": "Wattignies",
+    "date_debut": "2026-07-08 18:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/green-line-marching-band-2637303",
+    "index": 116
+  },
+  {
+    "id": "34019812",
+    "titre": "Atelier art floral - Octobre rose",
+    "ville": "Wattignies",
+    "date_debut": "2026-06-26 09:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/atelier-art-floral-octobre-rose",
+    "index": 117
+  },
+  {
+    "id": "62801642",
+    "titre": "Atelier \"Plantes sauvages comestibles\"",
+    "ville": "Wattignies",
+    "date_debut": "2026-06-25 09:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/atelier-plantes-sauvages-comestibles-228068",
+    "index": 118
+  },
+  {
+    "id": "34762385",
+    "titre": "Concert de fin d'année de l'Ecole municipale des arts",
+    "ville": "Wattignies",
+    "date_debut": "2026-06-24 18:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/concert-de-fin-dannee-de-lecole-municipale-des-arts",
+    "index": 119
+  },
+  {
+    "id": "21114371",
+    "titre": "Fête de la musique de Wattignies",
+    "ville": "Wattignies",
+    "date_debut": "2026-06-20 18:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/fete-de-la-musique-de-wattignies",
+    "index": 120
+  },
+  {
+    "id": "19705858",
+    "titre": "Spectacle Jeune Public : \"Inspecteur Toutou\"",
+    "ville": "Wattignies",
+    "date_debut": "2026-02-14 15:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/spectacle-jeune-public-inspecteur-toutou",
+    "index": 121
+  },
+  {
+    "id": "10995845",
+    "titre": "Catch d'impro",
+    "ville": "Wattignies",
+    "date_debut": "2026-02-13 20:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/catch-dimpro-1359942",
+    "index": 122
+  },
+  {
+    "id": "16124163",
+    "titre": "Le château de Barbe-bleue",
+    "ville": "Wattignies",
+    "date_debut": "2026-01-31 18:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/le-chateau-de-barbe-bleue",
+    "index": 123
+  },
+  {
+    "id": "56945678",
+    "titre": "“Tao misson Laponie” - spectacle jeune public de Noël",
+    "ville": "Wattignies",
+    "date_debut": "2025-12-20 15:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/tao-misson-laponie-spectacle-jeune-public-de-noel",
+    "index": 124
+  },
+  {
+    "id": "46746625",
+    "titre": "Concert de Noël",
+    "ville": "Wattignies",
+    "date_debut": "2025-12-19 20:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/concert-de-noel-3115010",
+    "index": 125
+  },
+  {
+    "id": "31401215",
+    "titre": "Parcours prévention santé en 10 étapes",
+    "ville": "Wattignies",
+    "date_debut": "2025-11-25 09:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/parcours-prevention-sante-en-10-etapes",
+    "index": 126
+  },
+  {
+    "id": "24756261",
+    "titre": "Festibambins \"L'extraordinaire voyage vers le lune\"",
+    "ville": "Wattignies",
+    "date_debut": "2025-11-16 16:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/festibambins-lextraordinaire-voyage-vers-le-lune",
+    "index": 127
+  },
+  {
+    "id": "25240536",
+    "titre": "Festibambins \"Roupillon\"",
+    "ville": "Wattignies",
+    "date_debut": "2025-11-16 10:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/festibambins-roupillon",
+    "index": 128
+  },
+  {
+    "id": "46538034",
+    "titre": "Festibambins \"Rêve\"",
+    "ville": "Wattignies",
+    "date_debut": "2025-11-15 16:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/festibambins-reve",
+    "index": 129
+  },
+  {
+    "id": "99217325",
+    "titre": "Festibambins \"A nos peaux sauvages\"",
+    "ville": "Wattignies",
+    "date_debut": "2025-11-15 09:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/festibambins-a-nos-peaux-sauvages",
+    "index": 130
+  },
+  {
+    "id": "29991967",
+    "titre": "Conférence - Les limites planétaires",
+    "ville": "Wattignies",
+    "date_debut": "2025-10-17 19:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/conference-les-limites-planetaires",
+    "index": 131
+  },
+  {
+    "id": "74205595",
+    "titre": "Cocktail musical – La veuve clinquante",
+    "ville": "Wattignies",
+    "date_debut": "2025-10-12 15:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/cocktail-musical-la-veuve-clinquante",
+    "index": 132
+  },
+  {
+    "id": "75248259",
+    "titre": "Cocktail musical – Les Mauvaises Langues",
+    "ville": "Wattignies",
+    "date_debut": "2025-10-04 20:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/cocktail-musical-les-mauvaises-langues",
+    "index": 133
+  },
+  {
+    "id": "98864397",
+    "titre": "Cocktail musical – “Illusions vocales” par Erick BAERT et ses musiciens",
+    "ville": "Wattignies",
+    "date_debut": "2025-10-03 20:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/cocktail-musical-illusions-vocales-par-erick-baert-et-ses-musiciens",
+    "index": 134
+  },
+  {
+    "id": "75897556",
+    "titre": "C'est pas Versailles ici!",
+    "ville": "Wattignies",
+    "date_debut": "2025-09-27 10:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/cest-pas-versailles-ici",
+    "index": 135
+  },
+  {
+    "id": "1537448",
+    "titre": "Adieu Lucas par YELLOH Compagnie",
+    "ville": "Wattignies",
+    "date_debut": "2025-09-25 20:00:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/adieu-lucas-par-yelloh-compagnie",
+    "index": 136
+  },
+  {
+    "id": "58006145",
+    "titre": "La Dictée en Ch’ti",
+    "ville": "Wattignies",
+    "date_debut": "2025-09-21 10:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/la-dictee-en-chti",
+    "index": 137
+  },
+  {
+    "id": "93265563",
+    "titre": "Théâtre de rue pour les Journées du Patrimoine",
+    "ville": "Wattignies",
+    "date_debut": "2025-09-21 10:30:00",
+    "url": "https://openagenda.com/mairie-de-wattignies/events/theatre-de-rue-pour-les-journees-du-patrimoine",
+    "index": 138
+  },
+  {
+    "id": "45419797",
+    "titre": "Visite guidée nocturne",
+    "ville": "Rouen",
+    "date_debut": "2026-07-24 22:00:00",
+    "url": "https://openagenda.com/le-donjon-de-rouen/events/visite-guidee-nocturne-7221262",
+    "index": 139
+  },
+  {
+    "id": "59370707",
+    "titre": "Visite costumée : le donjon au XXème siècle",
+    "ville": "Rouen",
+    "date_debut": "2024-11-17 15:30:00",
+    "url": "https://openagenda.com/le-donjon-de-rouen/events/visite-costumee-3729968",
+    "index": 140
+  },
+  {
+    "id": "35240634",
+    "titre": "Le Donjon à tâtons",
+    "ville": "Rouen",
+    "date_debut": "2024-11-16 19:00:00",
+    "url": "https://openagenda.com/le-donjon-de-rouen/events/le-donjon-a-tatons-2312756",
+    "index": 141
+  },
+  {
+    "id": "62353982",
+    "titre": "Soirée Escape Room : Songe d'une nuit d'hiver",
+    "ville": "Rouen",
+    "date_debut": "2025-01-24 19:00:00",
+    "url": "https://openagenda.com/le-donjon-de-rouen/events/soiree-escape-room-songe-dune-nuit-dhiver",
+    "index": 142
+  },
+  {
+    "id": "93545253",
+    "titre": "Minis visites - JEP",
+    "ville": "Rouen",
+    "date_debut": "2024-09-21 11:00:00",
+    "url": "https://openagenda.com/le-donjon-de-rouen/events/minis-visites-jep",
+    "index": 143
+  },
+  {
+    "id": "75453554",
+    "titre": "Rouen libérée !",
+    "ville": "Rouen",
+    "date_debut": "2024-08-31 10:00:00",
+    "url": "https://openagenda.com/le-donjon-de-rouen/events/rouen-liberee-",
+    "index": 144
+  },
+  {
+    "id": "62790777",
+    "titre": "Visite guidée : Sur les traces du château de Rouen",
+    "ville": "Rouen",
+    "date_debut": "2024-05-10 14:30:00",
+    "url": "https://openagenda.com/le-donjon-de-rouen/events/visite-guidee-sur-les-traces-du-chateau-de-rouen",
+    "index": 145
+  },
+  {
+    "id": "7196701",
+    "titre": "ESCAPE GAME - Salagnac - Clairvivre \"Mission Radium \"",
+    "ville": "Salagnac",
+    "date_debut": "2026-07-15 09:30:00",
+    "url": "https://openagenda.com/animations-estivales-2026-pays-dart-et-dhistoire-vezere-ardoise/events/escape-game-salagnac-clairvivre-mission-radium-8616356",
+    "index": 146
+  },
+  {
+    "id": "12156295",
+    "titre": "Canoë",
+    "ville": "Voutezac",
+    "date_debut": "2026-07-24 14:00:00",
+    "url": "https://openagenda.com/animations-estivales-2026-pays-dart-et-dhistoire-vezere-ardoise/events/canoe-8379675",
+    "index": 147
+  },
+  {
+    "id": "60816466",
+    "titre": "Cluedo géant - Étang de Lachamp - Saint-Germain-les-Vergnes",
+    "ville": "Favars",
+    "date_debut": "2026-07-10 15:00:00",
+    "url": "https://openagenda.com/animations-estivales-2026-pays-dart-et-dhistoire-vezere-ardoise/events/cluedo-geant-etang-de-lachamp-saint-germain-les-vergnes",
+    "index": 148
+  },
+  {
+    "id": "51455380",
+    "titre": "⚔️ INITIATION AU SABRE CORÉEN - PORTES OUVERTES",
+    "ville": "Saint-Jean-de-Braye",
+    "date_debut": "2026-08-19 18:00:00",
+    "url": "https://openagenda.com/venez-decouvrir-le-sabre-coreen/events/initiation-au-sabre-coreen-portes-ouvertes",
+    "index": 149
+  },
+  {
+    "id": "73604670",
+    "titre": "Parfums d'Asie Cultures olfactives traditionnelles de la Chine à l’Inde",
+    "ville": "Grasse",
+    "date_debut": "2026-06-27 10:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/parfums-dasie-cultures-olfactives-traditionnelles-de-la-chine-a-linde",
+    "index": 150
+  },
+  {
+    "id": "68112349",
+    "titre": "Voiles Latines Saint-Tropez 2026",
+    "ville": "Saint-Tropez",
+    "date_debut": "2026-06-05 13:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/voiles-latines-saint-tropez-2026",
+    "index": 151
+  },
+  {
+    "id": "23045447",
+    "titre": "Journal d’un paysan",
+    "ville": "Mouans-Sartoux",
+    "date_debut": "2026-06-06 18:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/journal-dun-paysan",
+    "index": 152
+  },
+  {
+    "id": "38252972",
+    "titre": "Distillation de rose avec Jean-Noël Falcou",
+    "ville": "Mouans-Sartoux",
+    "date_debut": "2026-05-08 09:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/distillation-de-rose-avec-jean-noel-falcou",
+    "index": 153
+  },
+  {
+    "id": "14037074",
+    "titre": "Les promesses de l’aube Concert-cueillette avec Merakhaazan",
+    "ville": "Mouans-Sartoux",
+    "date_debut": "2026-05-09 06:30:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/les-promesses-de-laube-concert-cueillette-avec-merakhaazan",
+    "index": 154
+  },
+  {
+    "id": "85942051",
+    "titre": "Savoir-faire liés parfum à l’honneur au Salon du Livre d’Histoire",
+    "ville": "Grasse",
+    "date_debut": "2026-04-25 10:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/savoir-faire-lies-parfum-a-lhonneur-au-salon-du-livre-dhistoire",
+    "index": 155
+  },
+  {
+    "id": "99147732",
+    "titre": "Festival du Film « Pastoralisme d’aujourd’hui et de demain »",
+    "ville": "Digne-les-Bains",
+    "date_debut": "2026-04-24 20:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/festival-du-film-pastoralisme-daujourdhui-et-de-demain-136255",
+    "index": 156
+  },
+  {
+    "id": "55003036",
+    "titre": "LA TRANSHUMANCE AU PATRIMOINE CULTUREL IMMATÉRIEL DE L’HUMANITÉ : UN ÉLAN POUR L’AVENIR ?",
+    "ville": "Marseille",
+    "date_debut": "2026-04-21 09:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/la-transhumance-au-patrimoine-culturel-immateriel-de-lhumanite-un-elan-pour-lavenir",
+    "index": 157
+  },
+  {
+    "id": "41931246",
+    "titre": "Révélez les usines à parfum",
+    "ville": "Grasse",
+    "date_debut": "2026-04-16 11:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/revelez-les-usines-a-parfum-4096315",
+    "index": 158
+  },
+  {
+    "id": "21062792",
+    "titre": "Exposition de châles cachemire",
+    "ville": "Calvisson",
+    "date_debut": "2025-10-16 14:30:00",
+    "url": "https://openagenda.com/pci-occitanie/events/exposition-de-chales-cachemire",
+    "index": 159
+  },
+  {
+    "id": "15148647",
+    "titre": "Expostion sur Nice son histoire et sa cuisine",
+    "ville": "Nice",
+    "date_debut": "2025-10-22 09:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/expostion-sur-nice-son-histoire-et-sa-cuisine",
+    "index": 160
+  },
+  {
+    "id": "59292961",
+    "titre": "RÉVÉLEZ LES USINES A PARFUM !",
+    "ville": "Grasse",
+    "date_debut": "2026-02-19 11:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/revelez-les-usines-a-parfum-169913",
+    "index": 161
+  },
+  {
+    "id": "4680772",
+    "titre": "Exposition \"Marseille et la mer\"",
+    "ville": "Marseille",
+    "date_debut": "2025-09-20 10:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/exposition-marseille-et-la-mer",
+    "index": 162
+  },
+  {
+    "id": "23063996",
+    "titre": "Les jeudis du MIP - Rencontre autour du monde du parfum",
+    "ville": "Grasse",
+    "date_debut": "2026-01-22 18:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/les-jeudis-du-mip-rencontre-autour-du-monde-du-parfum",
+    "index": 163
+  },
+  {
+    "id": "90564751",
+    "titre": "Spectacle - Le dernier parfum",
+    "ville": "Grasse",
+    "date_debut": "2026-01-08 20:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/spectacle-le-dernier-parfum",
+    "index": 164
+  },
+  {
+    "id": "5219457",
+    "titre": "Vinospirit Expériences",
+    "ville": "Taradeau",
+    "date_debut": "2025-04-07 10:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/vinospirit-experiences-6195339",
+    "index": 165
+  },
+  {
+    "id": "41118920",
+    "titre": "Colloque \"Les savoir-faire liés au parfum en Pays de Grasse face aux défis du XXIe siècle\"",
+    "ville": "Grasse",
+    "date_debut": "2025-11-28 08:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/colloque-les-savoir-faire-lies-au-parfum-en-pays-de-grasse-face-aux-defis-du-xxie-siecle",
+    "index": 166
+  },
+  {
+    "id": "88358733",
+    "titre": "Échansonnerie des Papes - Grand Conseil d'Hiver",
+    "ville": "Avignon",
+    "date_debut": "2025-11-22 18:30:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/echansonnerie-des-papes-grand-conseil-dhiver",
+    "index": 167
+  },
+  {
+    "id": "69777168",
+    "titre": "Rencontre avec Alex Benvenuto / Festins niçois, une transmission culinaire secrète et familiale",
+    "ville": "Nice",
+    "date_debut": "2025-11-22 13:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/festins-nicois-une-transmission-culinaire-secrete-et-familiale",
+    "index": 168
+  },
+  {
+    "id": "88639541",
+    "titre": "Rendez-vous Ethnologiques : Sensibilités photographiques, le terrain au prisme des images",
+    "ville": "Mane",
+    "date_debut": "2025-11-07 09:30:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/rendez-vous-ethnobotaniques-sensibilites-photographiques-le-terrain-au-prisme-des-images",
+    "index": 169
+  },
+  {
+    "id": "891081",
+    "titre": "Exposition \"Vibration du vivant\" - Antoine Pierini",
+    "ville": "Mouans-Sartoux",
+    "date_debut": "2025-04-07 10:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/exposition-vibration-du-vivant-antoine-pierini",
+    "index": 170
+  },
+  {
+    "id": "61920598",
+    "titre": "Révélez les usines à parfum",
+    "ville": "Grasse",
+    "date_debut": "2025-10-23 09:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/revelez-les-usines-a-parfum",
+    "index": 171
+  },
+  {
+    "id": "79093432",
+    "titre": "Journée porte ouverte à la carrière de pierre de Crillon",
+    "ville": "Crillon-le-Brave",
+    "date_debut": "2025-10-19 10:00:00",
+    "url": "https://openagenda.com/pci-provence-alpes-cote-dazur/events/journee-porte-ouverte-a-la-carriere-de-pierre-de-crillon",
+    "index": 172
+  },
+  {
+    "id": "80566056",
+    "titre": "Le syndicalisme Mulhousien",
+    "ville": "Mulhouse",
+    "date_debut": "2026-09-20 14:00:00",
+    "url": "https://openagenda.com/le-syndicalisme-mulhousien/events/le-syndicalisme-mulhousien",
+    "index": 173
+  },
+  {
+    "id": "90049497",
+    "titre": "Exposition Si on cherchait la petite bête ?",
+    "ville": "Carrières-sous-Poissy",
+    "date_debut": "2026-06-27 00:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/exposition-si-on-cherchait-la-petite-bete",
+    "index": 174
+  },
+  {
+    "id": "72423589",
+    "titre": "Exposition photographique : Châteaux, villas et folies. Villégiature en Île-de-France",
+    "ville": "Saint-Cloud",
+    "date_debut": "2026-06-30 07:30:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/exposition-photographique-chateaux-villas-et-folies-villegiature-en-ile-de-france",
+    "index": 175
+  },
+  {
+    "id": "2289990",
+    "titre": "Dessin & poésie au jardin",
+    "ville": "Paris",
+    "date_debut": "2026-06-29 08:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/dessin-and-poesie-au-jardin",
+    "index": 176
+  },
+  {
+    "id": "50451534",
+    "titre": "Installation Tree Hug par l'artiste Monsieur Plant",
+    "ville": "Châtenay-Malabry",
+    "date_debut": "2026-06-27 09:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/tree-hug",
+    "index": 177
+  },
+  {
+    "id": "61941144",
+    "titre": "Découverte d'un jardin extraordinaire au cœur du bois de Vincennes",
+    "ville": "Paris",
+    "date_debut": "2026-06-27 09:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/decouverte-dun-jardin-extraordinaire-au-coeur-du-bois-de-vincennes",
+    "index": 178
+  },
+  {
+    "id": "28862952",
+    "titre": "Fantastiques insectes !",
+    "ville": "Théméricourt",
+    "date_debut": "2026-06-27 14:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/fantastiques-insectes",
+    "index": 179
+  },
+  {
+    "id": "8036989",
+    "titre": "Visite guidée du la Roseraie du Clos Paradénia",
+    "ville": "Rosay",
+    "date_debut": "2026-06-27 09:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-guidee-du-la-roseraie-du-clos-paradenia",
+    "index": 180
+  },
+  {
+    "id": "646795",
+    "titre": "🔎 Le mystère du jardin du Musée de la vie d'autrefois",
+    "ville": "Les Ormes-sur-Voulzie",
+    "date_debut": "2026-07-04 09:30:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/2516354",
+    "index": 181
+  },
+  {
+    "id": "62738956",
+    "titre": "Visite libre du domaine départemental de Méréville",
+    "ville": "Le Mérévillois",
+    "date_debut": "2026-06-27 10:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-libre-du-domaine-departemental-de-mereville-5773154",
+    "index": 182
+  },
+  {
+    "id": "59707566",
+    "titre": "Visite libre du jardin pédagogique de l'Île de la Jatte",
+    "ville": "Levallois-Perret",
+    "date_debut": "2026-06-27 10:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-libre-du-jardin-pedagogique-de-lile-de-la-jatte",
+    "index": 183
+  },
+  {
+    "id": "74300056",
+    "titre": "Visite libre des Jardins Renoir",
+    "ville": "Paris",
+    "date_debut": "2026-06-27 10:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-libre-des-jardins-renoir-21427",
+    "index": 184
+  },
+  {
+    "id": "85109891",
+    "titre": "Installation \"C'était un éternel printemps\", par Delphine Delas",
+    "ville": "Versailles",
+    "date_debut": "2026-06-27 10:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/jardins-ouverts-3836533",
+    "index": 185
+  },
+  {
+    "id": "87267484",
+    "titre": "Visite du domaine de la Grange - la Prévôté",
+    "ville": "Savigny-le-Temple",
+    "date_debut": "2026-06-27 10:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/domaine-de-la-grange-la-prevote-7408761",
+    "index": 186
+  },
+  {
+    "id": "72112923",
+    "titre": "Visite libre jardin pédagogique",
+    "ville": "Saint-Cyr-sur-Morin",
+    "date_debut": "2026-06-29 10:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-jardin-pedagogique",
+    "index": 187
+  },
+  {
+    "id": "66547449",
+    "titre": "Installation artistique par Ilona Mikneviciute",
+    "ville": "Meudon",
+    "date_debut": "2026-07-03 11:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/installation-artistique-par-ilona-mikneviciute",
+    "index": 188
+  },
+  {
+    "id": "98554768",
+    "titre": "Visite du jardin de sculptures du MAC VAL",
+    "ville": "Vitry-sur-Seine",
+    "date_debut": "2026-06-27 11:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-du-jardin-de-sculptures-du-mac-val-2936824",
+    "index": 189
+  },
+  {
+    "id": "66528611",
+    "titre": "Visite libre du musée (Jardin en accès libre)",
+    "ville": "Auvers-sur-Oise",
+    "date_debut": "2026-06-27 11:30:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-libre-du-musee-jardin-en-acces-libre",
+    "index": 190
+  },
+  {
+    "id": "5405488",
+    "titre": "Visite du Potager conservatoire",
+    "ville": "Chaussy",
+    "date_debut": "2026-06-30 14:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/visite-du-potager-conservatoire-1545678",
+    "index": 191
+  },
+  {
+    "id": "62052431",
+    "titre": "Jeux, lectures et farniente dans le jardin du Musée",
+    "ville": "Montmorency",
+    "date_debut": "2026-06-27 14:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/jeux-lectures-et-farniente-dans-le-jardin-du-musee-1856169",
+    "index": 192
+  },
+  {
+    "id": "97379502",
+    "titre": "Bibliambuler au domaine Brialy",
+    "ville": "Monthyon",
+    "date_debut": "2026-07-15 10:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/bibliambuller-au-domaine-brialy",
+    "index": 193
+  },
+  {
+    "id": "5967384",
+    "titre": "Atelier Hors les murs... pour de vrai !",
+    "ville": "Thomery",
+    "date_debut": "2026-06-27 11:00:00",
+    "url": "https://openagenda.com/jardins-ouverts-2026/events/atelier-hors-les-murs-pour-de-vrai",
+    "index": 194
+  },
+  {
+    "id": "69696389",
+    "titre": "L'Antiquité réinventée",
+    "ville": "Gramont",
+    "date_debut": "2026-07-15 10:30:00",
+    "url": "https://openagenda.com/chateau-de-gramont/events/lantiquite-reinventee",
+    "index": 195
+  },
+  {
+    "id": "10872500",
+    "titre": "Réalise ton blason !",
+    "ville": "Gramont",
+    "date_debut": "2023-04-27 16:30:00",
+    "url": "https://openagenda.com/chateau-de-gramont/events/realise-ton-blason",
+    "index": 196
+  },
+  {
+    "id": "64774759",
+    "titre": "Visite Les Petits Seigneurs",
+    "ville": "Gramont",
+    "date_debut": "2025-08-14 10:30:00",
+    "url": "https://openagenda.com/chateau-de-gramont/events/visite-les-petits-seigneurs",
+    "index": 197
+  },
+  {
+    "id": "47059328",
+    "titre": "Saveurs d'antan",
+    "ville": "Gramont",
+    "date_debut": "2023-05-04 14:30:00",
+    "url": "https://openagenda.com/chateau-de-gramont/events/saveurs-dantan",
+    "index": 198
+  },
+  {
+    "id": "64649561",
+    "titre": "Journées européennes du patrimoine",
+    "ville": "Gramont",
+    "date_debut": "2023-09-16 10:00:00",
+    "url": "https://openagenda.com/chateau-de-gramont/events/journees-europeennes-du-patrimoine-7760765",
+    "index": 199
+  },
+  {
+    "id": "51313674",
+    "titre": "Projection du documentaire \"Penser l'incertitude\"",
+    "ville": "Cluny",
+    "date_debut": "2026-09-27 17:00:00",
+    "url": "https://openagenda.com/jnarchi-2026-bourgogne-franche-comte/events/projection-du-documentaire-penser-lincertitude-7291303",
+    "index": 200
+  },
+  {
+    "id": "86137069",
+    "titre": "Le Panthéon botanique",
+    "ville": "Vaugenets",
+    "date_debut": "2026-09-19 14:00:00",
+    "url": "https://openagenda.com/le-pantheon-botanique/events/le-pantheon-botanique",
+    "index": 201
+  },
+  {
+    "id": "19885657",
+    "titre": "Semaine de découverte Culturelle & Scientifique",
+    "ville": "Alès",
+    "date_debut": "2026-07-06 09:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/semaine-de-decouverte-culturelle-and-scientifique-8928118",
+    "index": 202
+  },
+  {
+    "id": "23982859",
+    "titre": "Les Mercredis du Pôle",
+    "ville": "Alès",
+    "date_debut": "2025-09-24 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/les-mercredis-du-pole",
+    "index": 203
+  },
+  {
+    "id": "18620995",
+    "titre": "Les Mercredis du Pôle - Atelier \" Arduino \"",
+    "ville": "Alès",
+    "date_debut": "2026-01-28 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/les-mercredis-du-pole-atelier-arduino",
+    "index": 204
+  },
+  {
+    "id": "99250417",
+    "titre": "Exposition \" Intelligences : du naturel au numérique \"",
+    "ville": "Alès",
+    "date_debut": "2025-10-11 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/exposition-intelligences-du-naturel-au-numerique",
+    "index": 205
+  },
+  {
+    "id": "26305796",
+    "titre": "Les Journées du Climat 2025",
+    "ville": "Alès",
+    "date_debut": "2025-12-07 10:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/les-journees-du-climat-2025",
+    "index": 206
+  },
+  {
+    "id": "39607590",
+    "titre": "La Sainte Barbe 2025 au Pôle culturel et scientifique de Rochebelle",
+    "ville": "Alès",
+    "date_debut": "2025-12-03 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/sainte-barbe-4763422",
+    "index": 207
+  },
+  {
+    "id": "59632083",
+    "titre": "Fête de la Science - Village des Sciences du Pôle Culturel et scientifique de Rochebelle",
+    "ville": "Alès",
+    "date_debut": "2025-10-11 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/fete-de-la-science-pole-culturel-et-scientifique-de-rochebelle-62831",
+    "index": 208
+  },
+  {
+    "id": "25221696",
+    "titre": "De la Terre à l'Univers",
+    "ville": "Alès",
+    "date_debut": "2026-07-01 15:55:00",
+    "url": "https://openagenda.com/ecole-municipale-dastronomie-dales/events/de-la-terre-a-lunivers-6424962",
+    "index": 209
+  },
+  {
+    "id": "92341388",
+    "titre": "Un stage de réalisation pendant les vacances d’été",
+    "ville": "Alès",
+    "date_debut": "2026-08-17 10:00:00",
+    "url": "https://openagenda.com/itinerances/events/deux-stages-de-realisation-pendant-les-vacances-dete",
+    "index": 210
+  },
+  {
+    "id": "16692",
+    "titre": "Ateliers : \"Mots et Impros\"",
+    "ville": "Alès",
+    "date_debut": "2026-09-15 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/ateliers-mots-et-impros-3681169",
+    "index": 211
+  },
+  {
+    "id": "8792513",
+    "titre": "Les Mercredis du Pôle \" Costume Médiéval \"",
+    "ville": "Alès",
+    "date_debut": "2026-09-30 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/les-mercredis-du-pole-costume-medieval",
+    "index": 212
+  },
+  {
+    "id": "13585693",
+    "titre": "Les Mercredis du Pôle \" Tambour \"",
+    "ville": "Alès",
+    "date_debut": "2026-09-30 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/les-mercredis-du-pole-tambour",
+    "index": 213
+  },
+  {
+    "id": "44449228",
+    "titre": "Les Mercredis du Pôle \"Crée ta broche Blason\"",
+    "ville": "Alès",
+    "date_debut": "2026-09-30 14:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/les-mercredis-du-pole-cree-ta-broche-blason",
+    "index": 214
+  },
+  {
+    "id": "66351493",
+    "titre": "Jonglez, vous êtes filmé·e·s ! #2",
+    "ville": "Alès",
+    "date_debut": "2026-07-11 14:00:00",
+    "url": "https://openagenda.com/agenda-culturel-scene-des-mondes/events/jonglez-vous-etes-filmees-2-2838867",
+    "index": 215
+  },
+  {
+    "id": "76145924",
+    "titre": "La Verrerie l'Été 1/3",
+    "ville": "Alès",
+    "date_debut": "2026-07-09 18:00:00",
+    "url": "https://openagenda.com/la-verrerie-pole-national-cirque-occitanie/events/la-verrerie-lete-13",
+    "index": 216
+  },
+  {
+    "id": "87188227",
+    "titre": "Conférence : \"Le chemin de Régordane, une route à péage au Moyen Âge\"",
+    "ville": "Alès",
+    "date_debut": "2026-06-24 17:00:00",
+    "url": "https://openagenda.com/pole-culturel-et-scientifique-de-rochebelle/events/conference-le-chemin-de-regordane-une-route-a-peage-au-moyen-age-8655627",
+    "index": 217
+  },
+  {
+    "id": "96369036",
+    "titre": "Château de Méré",
+    "ville": "Artannes-sur-Indre",
+    "date_debut": "2026-09-20 14:00:00",
+    "url": "https://openagenda.com/aapa/events/chateau-de-mere-791845",
+    "index": 218
+  },
+  {
+    "id": "69361242",
+    "titre": "Cadastre Napoléonien",
+    "ville": "Artannes-sur-Indre",
+    "date_debut": "2025-09-21 14:00:00",
+    "url": "https://openagenda.com/aapa/events/cadastre-napoleonien",
+    "index": 219
+  },
+  {
+    "id": "78640133",
+    "titre": "Château des Archevêques du 15ème siècle",
+    "ville": "Artannes-sur-Indre",
+    "date_debut": "2025-09-21 14:30:00",
+    "url": "https://openagenda.com/aapa/events/chateau-des-archeveques-6200289",
+    "index": 220
+  },
+  {
+    "id": "99208192",
+    "titre": "Exposition sur l’architecture.",
+    "ville": "Artannes-sur-Indre",
+    "date_debut": "2025-09-21 14:00:00",
+    "url": "https://openagenda.com/aapa/events/exposition-sur-larchitecture",
+    "index": 221
+  },
+  {
+    "id": "7713594",
+    "titre": "Exposition Vanités : Pierre Buraglio, Zipora Bodek, Claude Buraglio",
+    "ville": "Eysines",
+    "date_debut": "2026-07-02 14:00:00",
+    "url": "https://openagenda.com/centredartpierrebrana/events/exposition-vanites-pierre-buraglio-zipora-bodek-claude-buraglio",
+    "index": 222
+  },
+  {
+    "id": "44797991",
+    "titre": "Thx4Crying à Lyon",
+    "ville": "Lyon",
+    "date_debut": "2026-10-08 20:00:00",
+    "url": "https://openagenda.com/evenements-a-lyon/events/thx4crying-a-lyon",
+    "index": 223
+  },
+  {
+    "id": "10456431",
+    "titre": "Dafné Kritharas à Lyon",
+    "ville": "Lyon",
+    "date_debut": "2026-11-07 20:00:00",
+    "url": "https://openagenda.com/evenements-a-lyon/events/dafne-kritharas-a-lyon",
+    "index": 224
+  },
+  {
+    "id": "8601805",
+    "titre": "La Parade à Lyon",
+    "ville": "Lyon",
+    "date_debut": "2026-11-18 20:00:00",
+    "url": "https://openagenda.com/evenements-a-lyon/events/la-parade-a-lyon",
+    "index": 225
+  },
+  {
+    "id": "65083247",
+    "titre": "Concert jazz traditionnel de La Nouvelle-Orléans",
+    "ville": "Grigny",
+    "date_debut": "2026-09-18 19:30:00",
+    "url": "https://openagenda.com/journees-du-patrimoine-a-grigny-edition-2026/events/concert-jazz-traditionnel-de-la-nouvelle-orleans",
+    "index": 226
+  },
+  {
+    "id": "7941753",
+    "titre": "Balade « regards croisés »",
+    "ville": "Grigny",
+    "date_debut": "2026-09-19 09:30:00",
+    "url": "https://openagenda.com/journees-du-patrimoine-a-grigny-edition-2026/events/balade-regards-croises",
+    "index": 227
+  },
+  {
+    "id": "52860297",
+    "titre": "Voyage dans le temps et dans les archives",
+    "ville": "Grigny",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/journees-du-patrimoine-a-grigny-edition-2026/events/voyage-dans-le-temps-et-dans-les-archives",
+    "index": 228
+  },
+  {
+    "id": "29629756",
+    "titre": "Raconte ta Grande Borne",
+    "ville": "Grigny",
+    "date_debut": "2026-09-19 14:00:00",
+    "url": "https://openagenda.com/journees-du-patrimoine-a-grigny-edition-2026/events/raconte-ta-grande-borne",
+    "index": 229
+  },
+  {
+    "id": "77427895",
+    "titre": "Lecture musicale au Lavoir de Grigny",
+    "ville": "Grigny",
+    "date_debut": "2026-09-19 18:00:00",
+    "url": "https://openagenda.com/journees-du-patrimoine-a-grigny-edition-2026/events/lecture-musicale-au-lavoir-de-grigny",
+    "index": 230
+  },
+  {
+    "id": "43505598",
+    "titre": "Marché des potiers de Saint Jean de Fos",
+    "ville": "Saint-Jean-de-Fos",
+    "date_debut": "2026-07-25 09:00:00",
+    "url": "https://openagenda.com/association-des-potiers-de-saint-jean-de-fos/events/marche-des-potiers-de-saint-jean-de-fos",
+    "index": 231
+  },
+  {
+    "id": "68591982",
+    "titre": "Démonstration : découverte du makhila",
+    "ville": "Larressore",
+    "date_debut": "2026-09-18 09:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/decouverte-du-makhila",
+    "index": 232
+  },
+  {
+    "id": "43781423",
+    "titre": "[Spécial scolaires] Rencontre avec une restauratrice d'oeuvres d'arts graphiques",
+    "ville": "Marmande",
+    "date_debut": "2026-09-18 09:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/jep-2026-rencontre-avec-une-restauratrice-doeuvres-darts-graphiques",
+    "index": 233
+  },
+  {
+    "id": "95401988",
+    "titre": "Exposition \"Sensations océaniques\" à la chapelle Sainte Thérèse",
+    "ville": "Labenne",
+    "date_debut": "2026-09-18 10:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/exposition-sensations-oceaniques-chapelle-sainte-therese",
+    "index": 234
+  },
+  {
+    "id": "45809621",
+    "titre": "Rallye photo à la Cité des Castors de Pessac",
+    "ville": "Pessac",
+    "date_debut": "2026-09-18 10:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/rally-photo-a-la-cite-des-castors-de-pessac",
+    "index": 235
+  },
+  {
+    "id": "43274883",
+    "titre": "Visite commentée du jardin japonais Fukutsu-En",
+    "ville": "Bonnac-la-Côte",
+    "date_debut": "2026-09-18 14:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/journees-europeennes-du-patrimoine-7799488",
+    "index": 236
+  },
+  {
+    "id": "59405192",
+    "titre": "Jeu de piste dans Mauléon",
+    "ville": "Mauléon",
+    "date_debut": "2026-09-18 14:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/jeu-de-piste-dans-mauleon",
+    "index": 237
+  },
+  {
+    "id": "88766395",
+    "titre": "Visite de l'atelier Le Soulor, l'un des derniers fabricants de chaussures en France",
+    "ville": "Nay",
+    "date_debut": "2026-09-18 14:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/visite-de-latelier-le-soulor-lun-des-derniers-fabricants-de-chaussures-en-france",
+    "index": 238
+  },
+  {
+    "id": "51522632",
+    "titre": "Démonstration de cuisson de pain dans le four banal du XIVe siècle",
+    "ville": "Urval",
+    "date_debut": "2026-09-19 09:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/demostracion-de-hornear-pan-en-el-horno-banal-del-siglo-xiv-4293730",
+    "index": 239
+  },
+  {
+    "id": "70723024",
+    "titre": "Randonnée pédestre \"Les matinales de la préhistoire\"",
+    "ville": "Sers",
+    "date_debut": "2026-09-19 09:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/rando-pedestre-matinale-de-la-prehistoire-du-musee-au-roc-de-sers",
+    "index": 240
+  },
+  {
+    "id": "91600788",
+    "titre": "Journée citoyenne avec l'association MégaNéo",
+    "ville": "Luxé",
+    "date_debut": "2026-09-19 09:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/journee-citoyenne-avec-lassociation-meganeo",
+    "index": 241
+  },
+  {
+    "id": "17480356",
+    "titre": "Escape game : « L'enquête »",
+    "ville": "Pau",
+    "date_debut": "2026-09-19 09:30:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/escape-game-la-encuesta-9136289",
+    "index": 242
+  },
+  {
+    "id": "99936878",
+    "titre": "Atelier jeune public : du tableau à la photographie",
+    "ville": "Libourne",
+    "date_debut": "2026-09-19 09:30:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/atelier-jeune-public-du-tableau-a-la-photographie",
+    "index": 243
+  },
+  {
+    "id": "65418771",
+    "titre": "Visite libre du Fort Louvois",
+    "ville": "Bourcefranc-le-Chapus",
+    "date_debut": "2026-09-19 09:30:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/visite-libre-du-fort-louvois-5691885",
+    "index": 244
+  },
+  {
+    "id": "26594448",
+    "titre": "Visite commentée : 50 ans de santé, de sciences et de transmission, dans les coulisses des Facultés de Médecine et de Pharmacie de Limoges",
+    "ville": "Limoges",
+    "date_debut": "2026-09-19 09:30:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/50-ans-de-sante-de-sciences-et-de-transmission-dans-les-coulisses-des-facultes-de-medecine-et-de-pharmacie-de-limoges",
+    "index": 245
+  },
+  {
+    "id": "16061746",
+    "titre": "Visite commentée du tribunal judiciaire de Périgueux",
+    "ville": "Périgueux",
+    "date_debut": "2026-09-19 09:30:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/visite-du-tribunal-judiciaire-de-perigueux-7336416",
+    "index": 246
+  },
+  {
+    "id": "16784741",
+    "titre": "🚉 Venez à la découverte des métiers du ferroviaires au Campus SNCF Réseau de Bordeaux Bègles",
+    "ville": "Bègles",
+    "date_debut": "2026-09-19 09:30:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/venez-a-la-decouverte-des-metiers-du-ferroviaires-au-campus-sncf-reseau-de-bordeaux-begles-8111601",
+    "index": 247
+  },
+  {
+    "id": "10784919",
+    "titre": "Visite libre de l'écomusée",
+    "ville": "Le Grand-Village-Plage",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/visita-libre-del-ecomuseo",
+    "index": 248
+  },
+  {
+    "id": "24965609",
+    "titre": "Visite des grottes du Régulus",
+    "ville": "Meschers-sur-Gironde",
+    "date_debut": "2026-09-19 10:00:00",
+    "url": "https://openagenda.com/jep-2026-nouvelle-aquitaine/events/visite-des-grottes-du-regulus-367813",
+    "index": 249
+  },
+  {
+    "id": "67241254",
+    "titre": "Anja Breien",
+    "ville": "Toulouse",
+    "date_debut": "2026-07-15 22:06:17",
+    "url": "https://openagenda.com/le-cratere/events/anja-breien",
+    "index": 250
+  },
+  {
+    "id": "35660529",
+    "titre": "Derek Jarman",
+    "ville": "Toulouse",
+    "date_debut": "2026-07-29 22:06:17",
+    "url": "https://openagenda.com/le-cratere/events/derek-jarman",
+    "index": 251
+  },
+  {
+    "id": "20940255",
+    "titre": "Soufflait le vent... avec Débordements",
+    "ville": "Toulouse",
+    "date_debut": "2026-06-28 22:06:17",
+    "url": "https://openagenda.com/le-cratere/events/soufflait-le-vent-avec-debordements",
+    "index": 252
+  },
+  {
+    "id": "71339552",
+    "titre": "Zones à défendre",
+    "ville": "Toulouse",
+    "date_debut": "2026-07-01 22:06:17",
+    "url": "https://openagenda.com/le-cratere/events/zones-a-defendre",
+    "index": 253
+  },
+  {
+    "id": "84028783",
+    "titre": "Luttes décoloniales",
+    "ville": "Toulouse",
+    "date_debut": "2026-06-30 22:06:17",
+    "url": "https://openagenda.com/le-cratere/events/luttes-decoloniales",
+    "index": 254
+  },
+  {
+    "id": "29521263",
+    "titre": "Passé et Présent",
+    "ville": "Toulouse",
+    "date_debut": "2026-06-29 14:49:09",
+    "url": "https://openagenda.com/le-cratere/events/passe-et-present",
+    "index": 255
+  },
+  {
+    "id": "75252959",
+    "titre": "Italie",
+    "ville": "Toulouse",
+    "date_debut": "2026-06-28 14:49:09",
+    "url": "https://openagenda.com/le-cratere/events/italie-5188102",
+    "index": 256
+  },
+  {
+    "id": "36760261",
+    "titre": "Rencontres École au cinéma 2026",
+    "ville": "Toulouse",
+    "date_debut": "2026-06-17 14:49:09",
+    "url": "https://openagenda.com/le-cratere/events/rencontres-ecole-au-cinema-2026",
+    "index": 257
+  },
+  {
+    "id": "19326637",
+    "titre": "Le Ciné-Club des fiertés",
+    "ville": "Toulouse",
+    "date_debut": "2026-05-30 18:30:00",
+    "url": "https://openagenda.com/le-cratere/events/le-cine-club-des-fiertes-6803689",
+    "index": 258
+  },
+  {
+    "id": "98605345",
+    "titre": "Soirée Greg Araki",
+    "ville": "Toulouse",
+    "date_debut": "2026-06-04 20:00:00",
+    "url": "https://openagenda.com/le-cratere/events/soiree-greg-araki-7528397",
+    "index": 259
+  },
+  {
+    "id": "62639425",
+    "titre": "Nuit des Fiertés 2026",
+    "ville": "Toulouse",
+    "date_debut": "2026-05-30 18:30:00",
+    "url": "https://openagenda.com/le-cratere/events/nuit-des-fiertes-2026-1141074",
+    "index": 260
+  },
+  {
+    "id": "55511574",
+    "titre": "Regards sur la RDC : colonisation, histoire et luttes",
+    "ville": "Toulouse",
+    "date_debut": "2026-05-21 17:00:00",
+    "url": "https://openagenda.com/le-cratere/events/regards-sur-la-rdc-colonisation-histoire-et-luttes-5673193",
+    "index": 261
+  },
+  {
+    "id": "71522065",
+    "titre": "Archi'queer",
+    "ville": "Toulouse",
+    "date_debut": "2026-05-06 16:30:00",
+    "url": "https://openagenda.com/le-cratere/events/archiqueer-3923904",
+    "index": 262
+  },
+  {
+    "id": "31768010",
+    "titre": "Soirée de Clôture du festival du film japonais 2026",
+    "ville": "Toulouse",
+    "date_debut": "2026-05-02 21:00:00",
+    "url": "https://openagenda.com/le-cratere/events/soiree-de-cloture-du-festival-du-film-japonais-2026-1877442",
+    "index": 263
+  },
+  {
+    "id": "37597746",
+    "titre": "Kinotayo Inédits",
+    "ville": "Toulouse",
+    "date_debut": "2026-04-28 16:15:00",
+    "url": "https://openagenda.com/le-cratere/events/kinotayo-inedits",
+    "index": 264
+  },
+  {
+    "id": "47844921",
+    "titre": "Films d'animation japonais",
+    "ville": "Toulouse",
+    "date_debut": "2026-04-29 13:30:00",
+    "url": "https://openagenda.com/le-cratere/events/films-danimation",
+    "index": 265
+  },
+  {
+    "id": "52415062",
+    "titre": "Films d'animation japonais 2026",
+    "ville": "Toulouse",
+    "date_debut": "2026-04-29 13:30:00",
+    "url": "https://openagenda.com/le-cratere/events/films-danimation-japonais-2026-7548313",
+    "index": 266
+  },
+  {
+    "id": "64607049",
+    "titre": "Festival du film japonais de Toulouse 2026",
+    "ville": "Toulouse",
+    "date_debut": "2026-04-28 16:15:00",
+    "url": "https://openagenda.com/le-cratere/events/festival-du-film-japonais-de-toulouse-2026",
+    "index": 267
+  },
+  {
+    "id": "87221509",
+    "titre": "Festival du film japonais de Toulouse 2026",
+    "ville": "Toulouse",
+    "date_debut": "2026-04-28 16:15:00",
+    "url": "https://openagenda.com/le-cratere/events/festival-du-film-japonais-de-toulouse-2026-7743020",
+    "index": 268
+  },
+  {
+    "id": "82386611",
+    "titre": "Dire adieu de Valérie Poirier",
+    "ville": "Genève",
+    "date_debut": "2026-09-22 20:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/dire-adieu-de-valerie-poirier",
+    "index": 269
+  },
+  {
+    "id": "45633020",
+    "titre": "L’Origine rouge d’après Valère Novarina",
+    "ville": "Genève",
+    "date_debut": "2026-10-30 19:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/lorigine-rouge-dapres-valere-novarina",
+    "index": 270
+  },
+  {
+    "id": "19252026",
+    "titre": "La Grande Beuverie D’après René Daumal",
+    "ville": "Genève",
+    "date_debut": "2026-11-17 20:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/la-grande-beuverie-dapres-rene-daumal",
+    "index": 271
+  },
+  {
+    "id": "80935266",
+    "titre": "Champ",
+    "ville": "Genève",
+    "date_debut": "2027-01-28 20:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/champ",
+    "index": 272
+  },
+  {
+    "id": "97781011",
+    "titre": "Parashurama Danse classique indienne de style Kathakali",
+    "ville": "Genève",
+    "date_debut": "2027-03-18 20:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/parashurama-danse-classique-indienne-de-style-kathakali",
+    "index": 273
+  },
+  {
+    "id": "80383060",
+    "titre": "Anonymous Black or white",
+    "ville": "Genève",
+    "date_debut": "2027-03-20 19:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/anonymous-black-or-white",
+    "index": 274
+  },
+  {
+    "id": "91460500",
+    "titre": "Seule.s en scène",
+    "ville": "Genève",
+    "date_debut": "2027-04-08 20:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/seules-en-scene",
+    "index": 275
+  },
+  {
+    "id": "61612654",
+    "titre": "Brouhaha",
+    "ville": "Genève",
+    "date_debut": "2027-04-22 20:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/brouhaha",
+    "index": 276
+  },
+  {
+    "id": "82532780",
+    "titre": "Pinocchio Joël Pommerat d'après Carlo Collodi",
+    "ville": "Genève",
+    "date_debut": "2027-05-20 20:00:00",
+    "url": "https://openagenda.com/dire-adieu-de-valerie-poirier/events/pinocchio-joel-pommerat-dapres-carlo-collodi",
+    "index": 277
+  },
+  {
+    "id": "60950626",
+    "titre": "Apprendre en jouant",
+    "ville": "Senlis",
+    "date_debut": "2026-08-03 11:00:00",
+    "url": "https://openagenda.com/ateliers-mieux-apprendre/events/apprendre-en-jouant-57598",
+    "index": 278
+  },
+  {
+    "id": "80827393",
+    "titre": "Ateliers pour aider les collégiens à mieux apprendre",
+    "ville": "Senlis",
+    "date_debut": "2026-04-21 14:00:00",
+    "url": "https://openagenda.com/ateliers-mieux-apprendre/events/ateliers-pour-aider-les-collegiens-a-mieux-apprendre",
+    "index": 279
+  },
+  {
+    "id": "80222298",
+    "titre": "Atelier de langue et culture occitanes (variante gasconne)",
+    "ville": "Bordeaux",
+    "date_debut": "2025-10-01 18:00:00",
+    "url": "https://openagenda.com/visites-conferences-bordeaux-et-la-nouvelle-aquitaine-en-vo/events/talheir-de-lenga-e-cultura-occitanas-varianta-gascona",
+    "index": 280
+  },
+  {
+    "id": "44715249",
+    "titre": "Visite guidée : Le gascon, la nature et le paysage à Bordeaux",
+    "ville": "Bordeaux",
+    "date_debut": "2025-10-11 14:00:00",
+    "url": "https://openagenda.com/visites-conferences-bordeaux-et-la-nouvelle-aquitaine-en-vo/events/vesita-guidada-lo-gascon-la-natura-e-lo-paisatge-a-bordeu",
+    "index": 281
+  },
+  {
+    "id": "40620461",
+    "titre": "Visite guidée : Une Histoire de Bordeaux à travers le gascon",
+    "ville": "Bordeaux",
+    "date_debut": "2025-06-28 10:00:00",
+    "url": "https://openagenda.com/visites-conferences-bordeaux-et-la-nouvelle-aquitaine-en-vo/events/vesita-guidada-una-istoria-de-bordeu-capvath-lo-gascon",
+    "index": 282
+  },
+  {
+    "id": "32282986",
+    "titre": "24H Emploi Formation - Tours 2026",
+    "ville": "Tours",
+    "date_debut": "2026-09-03 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/24h-emploi-formation-tours-2026",
+    "index": 283
+  },
+  {
+    "id": "77402718",
+    "titre": "24H Emploi Formation - Saint-Malo 2026",
+    "ville": "saint-malo",
+    "date_debut": "2026-09-17 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/24h-emploi-formation-saint-malo-2026",
+    "index": 284
+  },
+  {
+    "id": "91206178",
+    "titre": "24 Heures pour l’Emploi et la Formation",
+    "ville": "Le Havre",
+    "date_debut": "2026-10-01 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/24-heures-pour-lemploi-et-la-formation-5889685",
+    "index": 285
+  },
+  {
+    "id": "76334166",
+    "titre": "24H Emploi Formation - Lyon",
+    "ville": "Décines-Charpieu",
+    "date_debut": "2027-01-28 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/24h-emploi-formation-lyon",
+    "index": 286
+  },
+  {
+    "id": "39701309",
+    "titre": "24H Emploi Formation - Bordeaux 2027",
+    "ville": "Bordeaux",
+    "date_debut": "2027-04-08 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/24h-emploi-formation-bordeaux-2027",
+    "index": 287
+  },
+  {
+    "id": "28843912",
+    "titre": "24h pour l'Emploi et la Formation - Blois 2026",
+    "ville": "Blois",
+    "date_debut": "2026-05-05 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/24h-pour-lemploi-et-la-formation-blois-2026",
+    "index": 288
+  },
+  {
+    "id": "38526706",
+    "titre": "24H Emploi Formation - Saint-Lô 2026",
+    "ville": "Saint-Lô",
+    "date_debut": "2026-04-02 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/24h-emploi-formation-saint-lo-2026",
+    "index": 289
+  },
+  {
+    "id": "85287406",
+    "titre": "salon 24H Emploi Formation Bourges 2025",
+    "ville": "Bourges",
+    "date_debut": "2025-09-11 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/salon-24h-emploi-formation-bourges-2025",
+    "index": 290
+  },
+  {
+    "id": "37935675",
+    "titre": "salon 24H Emploi Formation - Orléans 2025",
+    "ville": "Orléans",
+    "date_debut": "2025-02-27 10:00:00",
+    "url": "https://openagenda.com/organisateurl4m/events/salon-24h-emploi-formation-orleans-2025",
+    "index": 291
+  },
+  {
+    "id": "83486936",
+    "titre": "Visites estivales au musée et fonds patrimonial",
+    "ville": "Semur-en-Auxois",
+    "date_debut": "2026-07-08 10:30:00",
+    "url": "https://openagenda.com/visites-estivales-du-musee-et-du-fonds-patrimonial/events/visites-estivales-au-musee-et-fonds-patrimonial",
+    "index": 292
+  },
+  {
+    "id": "10228122",
+    "titre": "Inspiration Pan de bois",
+    "ville": "Orbec",
+    "date_debut": "2026-07-15 10:00:00",
+    "url": "https://openagenda.com/agglolisieuxnormandie/events/inspiration-pan-de-bois",
+    "index": 293
+  },
+  {
+    "id": "93159291",
+    "titre": "Musée du Vieux Manoir d'Orbec",
+    "ville": "Orbec",
+    "date_debut": "2026-05-02 14:00:00",
+    "url": "https://openagenda.com/agglolisieuxnormandie/events/musee-du-vieux-manoir-dorbec",
+    "index": 294
+  },
+  {
+    "id": "25644254",
+    "titre": "Orbec, l’histoire à la carte !",
+    "ville": "Orbec",
+    "date_debut": "2026-07-17 17:30:00",
+    "url": "https://openagenda.com/orbec/events/orbec-lhistoire-a-la-carte",
+    "index": 295
+  },
+  {
+    "id": "70867280",
+    "titre": "Atelier artistes en herbe",
+    "ville": "Orbec",
+    "date_debut": "2026-07-28 10:00:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-artistes-en-herbe-3294748",
+    "index": 296
+  },
+  {
+    "id": "502705",
+    "titre": "Atelier artistes en herbe",
+    "ville": "Orbec",
+    "date_debut": "2026-07-29 10:00:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-artistes-en-herbe-4847137",
+    "index": 297
+  },
+  {
+    "id": "11743862",
+    "titre": "Suivez le guide !",
+    "ville": "Orbec",
+    "date_debut": "2026-05-03 15:00:00",
+    "url": "https://openagenda.com/agglolisieuxnormandie/events/suivez-le-guide-9264890",
+    "index": 298
+  },
+  {
+    "id": "45994935",
+    "titre": "Atelier numérique",
+    "ville": "Orbec",
+    "date_debut": "2026-08-04 14:00:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-numerique-8612937",
+    "index": 299
+  },
+  {
+    "id": "97739172",
+    "titre": "Atelier créatif",
+    "ville": "Orbec",
+    "date_debut": "2026-08-05 10:30:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-creatif-2132109",
+    "index": 300
+  },
+  {
+    "id": "33848546",
+    "titre": "Orbec, l’histoire à la carte !",
+    "ville": "Orbec",
+    "date_debut": "2026-08-07 17:30:00",
+    "url": "https://openagenda.com/orbec/events/orbec-lhistoire-a-la-carte-3801717",
+    "index": 301
+  },
+  {
+    "id": "72124716",
+    "titre": "Spéciale enfants : Déguise-toi et deviens le héros de l’histoire d’Orbec !",
+    "ville": "Orbec",
+    "date_debut": "2026-08-11 10:30:00",
+    "url": "https://openagenda.com/orbec/events/speciale-enfants-deguise-toi-et-deviens-le-heros-de-lhistoire-dorbec-8961198",
+    "index": 302
+  },
+  {
+    "id": "6834991",
+    "titre": "Atelier numérique",
+    "ville": "Orbec",
+    "date_debut": "2026-08-11 14:00:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-numerique-4421206",
+    "index": 303
+  },
+  {
+    "id": "45601690",
+    "titre": "Atelier créatif",
+    "ville": "Orbec",
+    "date_debut": "2026-08-12 10:30:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-creatif-4568344",
+    "index": 304
+  },
+  {
+    "id": "6676402",
+    "titre": "Orbec, l’histoire à la carte !",
+    "ville": "Orbec",
+    "date_debut": "2026-08-14 17:30:00",
+    "url": "https://openagenda.com/orbec/events/orbec-lhistoire-a-la-carte-4649373",
+    "index": 305
+  },
+  {
+    "id": "19590785",
+    "titre": "Atelier numérique",
+    "ville": "Orbec",
+    "date_debut": "2026-08-18 14:00:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-numerique-3223726",
+    "index": 306
+  },
+  {
+    "id": "79175734",
+    "titre": "Atelier créatif",
+    "ville": "Orbec",
+    "date_debut": "2026-08-19 10:30:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-creatif-5462013",
+    "index": 307
+  },
+  {
+    "id": "32388771",
+    "titre": "Orbec, l’histoire à la carte !",
+    "ville": "Orbec",
+    "date_debut": "2026-08-21 17:30:00",
+    "url": "https://openagenda.com/orbec/events/orbec-lhistoire-a-la-carte-5521504",
+    "index": 308
+  },
+  {
+    "id": "21276305",
+    "titre": "BOUCHE BÉE",
+    "ville": "Orbec",
+    "date_debut": "2027-02-17 19:00:00",
+    "url": "https://openagenda.com/pole-spectacle-vivant-communaute-caln/events/bouche-bee-8546783",
+    "index": 309
+  },
+  {
+    "id": "83471382",
+    "titre": "REPORTEE en raison de la chaleur !Spéciale enfants : Déguise-toi et deviens le héros de l’histoire d’Orbec !",
+    "ville": "Orbec",
+    "date_debut": "2026-07-10 14:30:00",
+    "url": "https://openagenda.com/orbec/events/speciale-enfants-deguise-toi-et-deviens-le-heros-de-lhistoire-dorbec",
+    "index": 310
+  },
+  {
+    "id": "59972465",
+    "titre": "Atelier : dessine ton musée de nuit !",
+    "ville": "Orbec",
+    "date_debut": "2026-05-23 19:00:00",
+    "url": "https://openagenda.com/ndm-2026-normandie/events/dessine-ton-musee-de-nuit",
+    "index": 311
+  },
+  {
+    "id": "40192358",
+    "titre": "Visite guidée flash Bigot",
+    "ville": "Orbec",
+    "date_debut": "2026-05-23 20:00:00",
+    "url": "https://openagenda.com/ndm-2026-normandie/events/visite-flash-bigot",
+    "index": 312
+  },
+  {
+    "id": "44538119",
+    "titre": "Visite guidée flash Lottin",
+    "ville": "Orbec",
+    "date_debut": "2026-05-23 19:30:00",
+    "url": "https://openagenda.com/ndm-2026-normandie/events/visite-flash-lottin",
+    "index": 313
+  },
+  {
+    "id": "36967009",
+    "titre": "Visite guidée flash sur le pan de bois",
+    "ville": "Orbec",
+    "date_debut": "2026-05-23 19:00:00",
+    "url": "https://openagenda.com/ndm-2026-normandie/events/visite-flash-sur-le-pan-de-bois",
+    "index": 314
+  },
+  {
+    "id": "27679440",
+    "titre": "Exposition \"bien dans leur genre\"",
+    "ville": "Orbec",
+    "date_debut": "2026-03-04 10:00:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/exposition-bien-dans-leur-genre-7969697",
+    "index": 315
+  },
+  {
+    "id": "1621608",
+    "titre": "Atelier créatif",
+    "ville": "Orbec",
+    "date_debut": "2026-03-18 10:30:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-creatif-3052830",
+    "index": 316
+  },
+  {
+    "id": "95761688",
+    "titre": "Atelier créatif",
+    "ville": "Orbec",
+    "date_debut": "2026-03-11 10:30:00",
+    "url": "https://openagenda.com/pole-lecture-publique-caln/events/atelier-creatif-8576784",
+    "index": 317
+  },
+  {
+    "id": "68225583",
+    "titre": "Exposition peintures",
+    "ville": "Bessenay",
+    "date_debut": "2026-06-04 10:00:00",
+    "url": "https://openagenda.com/agenda-de-la-commune-de-bessenay/events/culture-4249578",
+    "index": 318
+  },
+  {
+    "id": "69130954",
+    "titre": "Vogue de Bessenay",
+    "ville": "Bessenay",
+    "date_debut": "2026-08-28 18:00:00",
+    "url": "https://openagenda.com/agenda-de-la-commune-de-bessenay/events/vogue-de-bessenay-2026",
+    "index": 319
+  },
+  {
+    "id": "4057300",
+    "titre": "Repas de la Vogue",
+    "ville": "Bessenay",
+    "date_debut": "2026-08-28 19:00:00",
+    "url": "https://openagenda.com/agenda-de-la-commune-de-bessenay/events/buvette-sur-place",
+    "index": 320
+  },
+  {
+    "id": "7707509",
+    "titre": "Marché de Noël",
+    "ville": "Bessenay",
+    "date_debut": "2026-11-22 09:30:00",
+    "url": "https://openagenda.com/agenda-de-la-commune-de-bessenay/events/marche-de-noel-9324308",
+    "index": 321
+  },
+  {
+    "id": "3164588",
+    "titre": "Bessenay en fête 2026",
+    "ville": "Bessenay",
+    "date_debut": "2026-07-04 19:00:00",
+    "url": "https://openagenda.com/agenda-de-la-commune-de-bessenay/events/bessenay-en-fete-2026",
+    "index": 322
+  },
+  {
+    "id": "84962425",
+    "titre": "Soirée jeux de société",
+    "ville": "Bessenay",
+    "date_debut": "2026-06-26 19:00:00",
+    "url": "https://openagenda.com/agenda-de-la-commune-de-bessenay/events/soiree-jeux-de-societe-6852698",
+    "index": 323
+  },
+  {
+    "id": "55754886",
+    "titre": "Fête des Pères : Offrez-lui une croisière apéro",
+    "ville": "Bordeaux",
+    "date_debut": "2026-06-21 15:00:00",
+    "url": "https://openagenda.com/lesbateauxbordelais/events/fete-des-peres-offrez-lui-une-croisiere-apero",
+    "index": 324
+  },
+  {
+    "id": "48067031",
+    "titre": "Concert \"Requiem de Karl Jenkins\"",
+    "ville": "Bordeaux",
+    "date_debut": "2026-05-29 20:30:00",
+    "url": "https://openagenda.com/ensemble-vocal-hemiole/events/concert-requiem-de-karl-jenkins",
+    "index": 325
+  },
+  {
+    "id": "67562972",
+    "titre": "Soirée jeux au Café des Écureuils",
+    "ville": "Martignas-sur-Jalle",
+    "date_debut": "2026-05-29 19:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/soiree-jeux-6098370",
+    "index": 326
+  },
+  {
+    "id": "53185488",
+    "titre": "Guignol Guerin pendant les vacances de Toussaint",
+    "ville": "Bordeaux",
+    "date_debut": "2025-10-17 18:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/guignol-guerin-vacances-de-toussaint-6396028",
+    "index": 327
+  },
+  {
+    "id": "38229683",
+    "titre": "De boulevards en barrières... une histoire en mouvement",
+    "ville": "Bordeaux",
+    "date_debut": "2025-09-08 13:00:00",
+    "url": "https://openagenda.com/la-memoire-de-bordeaux-metropole/events/de-boulevards-en-barrieres-une-histoire-en-mouvement-3554830",
+    "index": 328
+  },
+  {
+    "id": "76242614",
+    "titre": "Yoga en plein air",
+    "ville": "Léognan",
+    "date_debut": "2025-08-09 10:00:00",
+    "url": "https://openagenda.com/les-experiences-du-chateau-leognan/events/yoga-en-plein-air-5298871",
+    "index": 329
+  },
+  {
+    "id": "19625023",
+    "titre": "Festival Chahuts 2025",
+    "ville": "Bordeaux",
+    "date_debut": "2025-06-06 16:00:00",
+    "url": "https://openagenda.com/chahuts/events/festival-chahuts-2025",
+    "index": 330
+  },
+  {
+    "id": "42808847",
+    "titre": "Visites guidées de la ville de Bordeaux",
+    "ville": "Bordeaux",
+    "date_debut": "2026-05-11 09:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/bordeaux-metropole-visites-guidees-de-la-ville",
+    "index": 331
+  },
+  {
+    "id": "93696470",
+    "titre": "Excursions dans le vignoble bordelais",
+    "ville": "Bordeaux",
+    "date_debut": "2026-05-04 09:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/visitas-guiadas-a-los-vinedos-bordeleses",
+    "index": 332
+  },
+  {
+    "id": "86174376",
+    "titre": "Martin Parr : Art de vivre",
+    "ville": "Bordeaux",
+    "date_debut": "2026-04-23 18:00:00",
+    "url": "https://openagenda.com/ville-de-bordeaux/events/martin-parr-art-de-vivre",
+    "index": 333
+  },
+  {
+    "id": "20138804",
+    "titre": "Visite du Musée de l'Illusion à Bordeaux",
+    "ville": "Bordeaux",
+    "date_debut": "2026-02-23 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/visita-al-museo-de-la-ilusion-de-burdeos",
+    "index": 334
+  },
+  {
+    "id": "18259003",
+    "titre": "L'exposition permanente de La Cité du Vin",
+    "ville": "Bordeaux",
+    "date_debut": "2026-01-05 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/the-permanent-exhibition-at-the-cite-du-vin",
+    "index": 335
+  },
+  {
+    "id": "57322517",
+    "titre": "\"Matisse, la symphonie des couleurs\" aux Bassins des Lumières",
+    "ville": "Bordeaux",
+    "date_debut": "2026-02-07 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/oceano-una-inmersion-en-los-bassins-des-lumieres",
+    "index": 336
+  },
+  {
+    "id": "97128734",
+    "titre": "Exposition \"La douane aux frontières du large\" au Musée des Douanes",
+    "ville": "Bordeaux",
+    "date_debut": "2026-04-02 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/exhibition-customs-at-the-borders-of-the-sea-at-the-customs-museum",
+    "index": 337
+  },
+  {
+    "id": "80729263",
+    "titre": "Via Sensoria, le parcours sensoriel de dégustation à La Cité du Vin",
+    "ville": "Bordeaux",
+    "date_debut": "2026-04-01 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/via-sensoria-immersive-tasting-tour",
+    "index": 338
+  },
+  {
+    "id": "15456661",
+    "titre": "Visite de la Flèche Saint-Michel à Bordeaux",
+    "ville": "Bordeaux",
+    "date_debut": "2026-07-06 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/visita-a-la-fleche-saint-michel-en-burdeos",
+    "index": 339
+  },
+  {
+    "id": "36435750",
+    "titre": "Les événements pulpés de l'été",
+    "ville": "Bordeaux",
+    "date_debut": "2026-07-01 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/les-evenements-pulpes-de-lete-2611650",
+    "index": 340
+  },
+  {
+    "id": "28419994",
+    "titre": "La Forêt Magique de Bordeaux : enquêtes, défis et magie en famille",
+    "ville": "Fargues-Saint-Hilaire",
+    "date_debut": "2026-07-04 10:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/la-foret-magique-de-bordeaux-enquetes-defis-et-magie-en-famille",
+    "index": 341
+  },
+  {
+    "id": "6483569",
+    "titre": "Exposition Miaou!",
+    "ville": "Bordeaux",
+    "date_debut": "2026-06-17 10:30:00",
+    "url": "https://openagenda.com/museum-de-bordeaux-sciences-et-nature/events/exposition-miaou",
+    "index": 342
+  },
+  {
+    "id": "55193452",
+    "titre": "Exposition \"Pollen\" au CAPC de Bordeaux",
+    "ville": "Bordeaux",
+    "date_debut": "2026-01-06 11:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/pollen-exhibition-at-the-bordeaux-museum-of-contemporary-art",
+    "index": 343
+  },
+  {
+    "id": "45127945",
+    "titre": "Exposition permanente du Musée d'Aquitaine : 400 000 ans d’histoire(s)",
+    "ville": "Bordeaux",
+    "date_debut": "2026-01-05 11:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/permanent-exhibition-at-the-museum-of-aquitaine-400000-years-of-history",
+    "index": 344
+  },
+  {
+    "id": "27450365",
+    "titre": "Dansons sur les quais à Bordeaux",
+    "ville": "Bordeaux",
+    "date_debut": "2026-07-14 11:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/festival-de-danza-de-burdeos-baile-en-el-muelle",
+    "index": 345
+  },
+  {
+    "id": "75495109",
+    "titre": "Plage du Lac : baignade surveillée et animations gratuites tout l'été !",
+    "ville": "Bruges",
+    "date_debut": "2026-06-01 12:00:00",
+    "url": "https://openagenda.com/bordeaux-sportive/events/plage-du-lac-baignade-surveillee-et-animations-gratuites-tout-lete",
+    "index": 346
+  },
+  {
+    "id": "20175324",
+    "titre": "L’art déco s’invite à Bordeaux !",
+    "ville": "Bordeaux",
+    "date_debut": "2026-04-30 13:00:00",
+    "url": "https://openagenda.com/bordeaux-bibliotheques/events/lart-deco-sinvite-a-bordeaux",
+    "index": 347
+  },
+  {
+    "id": "63284005",
+    "titre": "Visitez la Porte Cailhau, monument historique de Bordeaux",
+    "ville": "Bordeaux",
+    "date_debut": "2026-01-05 14:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/visita-a-la-puerta-cailhau-monumento-historico-de-burdeos",
+    "index": 348
+  },
+  {
+    "id": "58976676",
+    "titre": "Circasciences, en piste !",
+    "ville": "Bordeaux",
+    "date_debut": "2026-03-28 14:00:00",
+    "url": "https://openagenda.com/cap-sciences/events/circasciences-en-piste",
+    "index": 349
+  },
+  {
+    "id": "68740044",
+    "titre": "Exposition estivale à la Zone Trois Galerie",
+    "ville": "Bordeaux",
+    "date_debut": "2026-05-28 14:00:00",
+    "url": "https://openagenda.com/un-air-de-bordeaux/events/summer-exhibition-2nd-edition-or-28-mai-au-12-sept-26",
+    "index": 350
+  },
+  {
+    "id": "29220904",
+    "titre": "Festi' Village d'été",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-14 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/festi-village-dete",
+    "index": 351
+  },
+  {
+    "id": "58153048",
+    "titre": "La Petite Guinguette - ouverture exceptionnelle",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-14 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/la-petite-guinguette-ouverture-exceptionnelle-1424134",
+    "index": 352
+  },
+  {
+    "id": "26628683",
+    "titre": "Toulouse-Lautrec : micro-conférence et atelier de création",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-15 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/toulouse-lautrec-micro-conference-et-atelier-de-creation",
+    "index": 353
+  },
+  {
+    "id": "61512793",
+    "titre": "Atelier de création en cyanotype",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-17 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/atelier-de-creation-en-cyanotype",
+    "index": 354
+  },
+  {
+    "id": "7195137",
+    "titre": "Oasis Aquatique",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-18 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/oasis-aquatique-4234180",
+    "index": 355
+  },
+  {
+    "id": "49966011",
+    "titre": "Notre-Dame de Paris en réalité virtuelle",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-22 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/notre-dame-de-paris-en-realite-virtuelle",
+    "index": 356
+  },
+  {
+    "id": "97234719",
+    "titre": "Festi' Famille - Ciné sous les étoiles",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-24 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/festi-famille-cine-sous-les-etoiles",
+    "index": 357
+  },
+  {
+    "id": "46509169",
+    "titre": "Fête aux Nangues",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-29 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/fete-aux-nangues",
+    "index": 358
+  },
+  {
+    "id": "73456346",
+    "titre": "Animation stop motion : réaliser son court métrage",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-29 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/animation-stop-motion-realiser-son-court-metrage",
+    "index": 359
+  },
+  {
+    "id": "4369586",
+    "titre": "Paul Gauguin : musée numérique et réalité virtuelle",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-31 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/paul-gauguin-musee-numerique-et-realite-virtuelle",
+    "index": 360
+  },
+  {
+    "id": "244370",
+    "titre": "Goûter et projection des courts métrages",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-01 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/gouter-et-projection-des-courts-metrages",
+    "index": 361
+  },
+  {
+    "id": "76146288",
+    "titre": "Viens décorer la ruche !",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-01 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/viens-decorer-la-ruche",
+    "index": 362
+  },
+  {
+    "id": "81956394",
+    "titre": "Stop motion : réalisation de courts métrages",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-01 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/stop-motion-realisation-de-courts-metrages",
+    "index": 363
+  },
+  {
+    "id": "16143024",
+    "titre": "Oasis Aquatique",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-08 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/oasis-aquatique",
+    "index": 364
+  },
+  {
+    "id": "1925153",
+    "titre": "La Petite Guinguette - ouverture exceptionnelle",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-15 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/la-petite-guinguette-ouverture-exceptionnelle",
+    "index": 365
+  },
+  {
+    "id": "27600477",
+    "titre": "Festi' Dubroca",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-28 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/festi-dubroca",
+    "index": 366
+  },
+  {
+    "id": "68715368",
+    "titre": "Oasis Aquatique - Festi' Famille",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-28 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/oasis-aquatique-festi-famille",
+    "index": 367
+  },
+  {
+    "id": "14508839",
+    "titre": "Lyla",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-08-29 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/lyla-4474750",
+    "index": 368
+  },
+  {
+    "id": "5344606",
+    "titre": "Festi' Village d'été",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-13 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/festi-village-dete-5698708",
+    "index": 369
+  },
+  {
+    "id": "81686839",
+    "titre": "Feu d'artifice",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-13 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/feu-dartifice-4987522",
+    "index": 370
+  },
+  {
+    "id": "17954336",
+    "titre": "Festi' Villiers Plage",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-12 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/festi-villiers-plage",
+    "index": 371
+  },
+  {
+    "id": "68381263",
+    "titre": "Jessica Sellem",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-11 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/jessica-sellem",
+    "index": 372
+  },
+  {
+    "id": "73847987",
+    "titre": "Documentaire Arte : Camille Claudel, sculpter pour exister",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-11 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/documentaire-arte-camille-claudel-sculpter-pour-exister",
+    "index": 373
+  },
+  {
+    "id": "91997794",
+    "titre": "Atelier de création en cyanotype",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-11 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/atelier-de-creation-en-cyanotype-9768524",
+    "index": 374
+  },
+  {
+    "id": "98266495",
+    "titre": "Festi' Villiers Plage",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-07 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/festi-villiers-plage-8792501",
+    "index": 375
+  },
+  {
+    "id": "19397538",
+    "titre": "Atelier découverte de la biodiversité",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-10 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/atelier-decouverte-de-la-biodiversite-4566088",
+    "index": 376
+  },
+  {
+    "id": "11197504",
+    "titre": "Claude Monet : micro-conférence et atelier de création",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-08 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/claude-monet-micro-conference-et-atelier-de-creation",
+    "index": 377
+  },
+  {
+    "id": "57617627",
+    "titre": "Lancement des 3 V",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-06 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/lancement-des-3-v",
+    "index": 378
+  },
+  {
+    "id": "27641065",
+    "titre": "Création de sphères florales",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-05 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/creation-de-spheres-florales",
+    "index": 379
+  },
+  {
+    "id": "36696549",
+    "titre": "Place aux artistes : Ruth and Mercy Men",
+    "ville": "Villiers-sur-Marne",
+    "date_debut": "2026-07-05 00:00:00",
+    "url": "https://openagenda.com/mairie-villiers94/events/place-aux-artistes-ruth-and-mercy-men",
+    "index": 380
+  },
+  {
+    "id": "57088940",
+    "titre": "Naoned Urban Trail",
+    "ville": "Nantes",
+    "date_debut": "2026-05-31 07:30:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/naoned-urban-trail-4775098",
+    "index": 381
+  },
+  {
+    "id": "30479495",
+    "titre": "Estives 2026 – Les activités escalade d'Oz'Aléo",
+    "ville": "Nantes",
+    "date_debut": "2026-07-02 18:00:00",
+    "url": "https://openagenda.com/nantesmetropole/events/estives-2026-les-activites-escalade-dozaleo",
+    "index": 382
+  },
+  {
+    "id": "64669438",
+    "titre": "Estives 2026 – Initiation au BMX",
+    "ville": "Nantes",
+    "date_debut": "2026-07-08 09:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/initiation-bmx",
+    "index": 383
+  },
+  {
+    "id": "44196782",
+    "titre": "Anime ton quartier Malakoff",
+    "ville": "Nantes",
+    "date_debut": "2026-07-15 15:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-malakoff",
+    "index": 384
+  },
+  {
+    "id": "3771270",
+    "titre": "Anime ton quartier Dervallières",
+    "ville": "Nantes",
+    "date_debut": "2026-07-16 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-dervallieres",
+    "index": 385
+  },
+  {
+    "id": "50780020",
+    "titre": "Anime ton quartier Nantes Nord",
+    "ville": "Nantes",
+    "date_debut": "2026-07-16 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-doulon-bottiere-924741",
+    "index": 386
+  },
+  {
+    "id": "76875433",
+    "titre": "Anime ton quartier Bellevue",
+    "ville": "Nantes",
+    "date_debut": "2026-07-17 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anime-ton-quartier-bellevue-4095872",
+    "index": 387
+  },
+  {
+    "id": "84944533",
+    "titre": "Estives 2026 – Slackline",
+    "ville": "Nantes",
+    "date_debut": "2026-07-03 17:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/slackline-437982",
+    "index": 388
+  },
+  {
+    "id": "20436085",
+    "titre": "Anime ton quartier Dervallières",
+    "ville": "Nantes",
+    "date_debut": "2026-07-21 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anime-ton-quartier-dervallieres-4139514",
+    "index": 389
+  },
+  {
+    "id": "71205750",
+    "titre": "Anime ton quartier Nantes Erdre",
+    "ville": "Nantes",
+    "date_debut": "2026-07-30 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anime-ton-quartier-nantes-erdre-2542359",
+    "index": 390
+  },
+  {
+    "id": "97696637",
+    "titre": "Anime ton quartier Nantes Erdre",
+    "ville": "Nantes",
+    "date_debut": "2026-08-06 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-doulon-bottiere-7432388",
+    "index": 391
+  },
+  {
+    "id": "67302372",
+    "titre": "Anime ton quartier Dervallières",
+    "ville": "Nantes",
+    "date_debut": "2026-08-10 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anime-ton-quartier-dervallieres-9804721",
+    "index": 392
+  },
+  {
+    "id": "71184678",
+    "titre": "Estives 2026 – Slackline",
+    "ville": "Nantes",
+    "date_debut": "2026-06-27 10:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/slackline-8386397",
+    "index": 393
+  },
+  {
+    "id": "31436633",
+    "titre": "Estives 2026 – Séances de yoga par Éléphant Yoga Studio",
+    "ville": "Nantes",
+    "date_debut": "2026-07-06 18:30:00",
+    "url": "https://openagenda.com/nantesmetropole/events/estives-2026-seances-de-yoga-par-elephant-yoga-studio",
+    "index": 394
+  },
+  {
+    "id": "83025880",
+    "titre": "Anime ton quartier Nantes Erdre",
+    "ville": "Nantes",
+    "date_debut": "2026-08-20 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-doulon-bottiere-4141775",
+    "index": 395
+  },
+  {
+    "id": "55767919",
+    "titre": "Anime ton quartier Breil-Barberie",
+    "ville": "Nantes",
+    "date_debut": "2026-08-24 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-breil-barberie",
+    "index": 396
+  },
+  {
+    "id": "71920902",
+    "titre": "Anime ton quartier Nantes Sud",
+    "ville": "Nantes",
+    "date_debut": "2026-08-25 15:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-nantes-sud",
+    "index": 397
+  },
+  {
+    "id": "25732032",
+    "titre": "Anime ton quartier Bellevue",
+    "ville": "Nantes",
+    "date_debut": "2026-08-26 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anime-ton-quartier-bellevue-8047130",
+    "index": 398
+  },
+  {
+    "id": "85238005",
+    "titre": "Anime ton quartier Nantes Nord",
+    "ville": "Nantes",
+    "date_debut": "2026-08-26 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anim-ton-quartier-nantes-nord",
+    "index": 399
+  },
+  {
+    "id": "85274798",
+    "titre": "Anime ton quartier Ile de Nantes",
+    "ville": "Nantes",
+    "date_debut": "2026-08-27 15:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anime-ton-quartier-ile-de-nantes-1102244",
+    "index": 400
+  },
+  {
+    "id": "85290412",
+    "titre": "Anime ton quartier Dervallières",
+    "ville": "Nantes",
+    "date_debut": "2026-08-28 14:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/anime-ton-quartier-dervallieres-4299249",
+    "index": 401
+  },
+  {
+    "id": "63019884",
+    "titre": "La DAG 2026 – Ultime édition • Événement complet",
+    "ville": "Nantes",
+    "date_debut": "2026-09-27 09:30:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/la-dag-2026-ultime-edition",
+    "index": 402
+  },
+  {
+    "id": "7866635",
+    "titre": "Ekiden de Nantes by Décathlon Atlantis",
+    "ville": "Nantes",
+    "date_debut": "2026-10-04 08:30:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/ekiden-de-nantes-2951661",
+    "index": 403
+  },
+  {
+    "id": "50933355",
+    "titre": "Triathlon de Nantes 2026",
+    "ville": "Nantes",
+    "date_debut": "2026-10-18 09:00:00",
+    "url": "https://openagenda.com/sports-a-nantes/events/triathlon-de-nantes-2681434",
+    "index": 404
+  }
+]

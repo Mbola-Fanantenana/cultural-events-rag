@@ -1,0 +1,972 @@
+[
+  {
+    "index": 0,
+    "texte": "Titre: Visite du Carillon Bollée\nDescription: Accompagnés d'un guide, vous découvrez, au plus près, ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 1,
+    "texte": "Titre: VISITE DE LA TAMISERIE\nDescription: Dans le cadre des Journées Européennes des Métiers d'Arts...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 2,
+    "texte": "Titre: SPECTACLE : TAMIS - FANTAISIE MÉCANIQUE POUR OBJETS ET MARIONNETTES\nDescription: Dans le cadr...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 3,
+    "texte": "Titre: Visite exceptionelle : La Manu et ses métiers\nDescription: Dans le cadre des Journées Europée...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 4,
+    "texte": "Titre: Visite guidée du site de la Manu\nDescription: visite guidée du site de la Manu avec son histo...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 5,
+    "texte": "Titre: Géocaching \"Les grands personnages de Châtellerault\"\nDescription: Activité gratuite à faire e...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 6,
+    "texte": "Titre: Géocaching \"La manufacture d'armes de Châtellerault\"\nDescription: Activité gratuite à faire e...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 7,
+    "texte": "Titre: Fiches découvertes \"énigmes\" jeune public\nDescription: A faire en famille et en autonomie à v...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 8,
+    "texte": "Titre: Kits créatifs jeune public à faire en autonomie chez soi\nDescription: Fournis avec notices ex...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 9,
+    "texte": "Titre: Le vieux Châtellerault en famille\nDescription: Découvrez le centre ancien de Châtellerault en...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 10,
+    "texte": "Titre: Visite thématique : La Renaissance à Châtellerault\nDescription: Découvrez les monuments de st...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 11,
+    "texte": "Titre: Visite du Vieux Poitiers\nDescription: Découvrez ou redécouvrez le site du Vieux Poitiers\nDéta...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 12,
+    "texte": "Titre: Visite Flash\nDescription: Découvrez un monument ou un lieu emblématique de l'histoire de Chât...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 13,
+    "texte": "Titre: Visite contée du centre ancien.\nDescription: Visitez Châtellerault autrement lors d'une visit...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 14,
+    "texte": "Titre: Visite thématique : Châtellerault médiéval\nDescription: Découvrez les origines médiévales de ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 15,
+    "texte": "Titre: Visite de la Manufacture\nDescription: Accompagné d'un guide conférencier, découvrez la Manu e...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 16,
+    "texte": "Titre: Concert de Carillon\nDescription: Les carillonneurs de Cholet font sonner le carillon Bollée. ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 17,
+    "texte": "Titre: Cérémonie de pose de Stolpersteine en hommage à Manon Cormier\nDescription: Avec le Barreau de...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 18,
+    "texte": "Titre: Salon des Métiers d'Art et Artisanats\nDescription: Pour sa 10ᵉ édition, les 21 et 22 novembre...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 19,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Chimin Razié\"\nDescription: \"Chimin Razié\" de Rezonans - quinte...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 20,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Cumbia Rebelle - mémoire en mouvement\"\nDescription: Concert in...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 21,
+    "texte": "Titre: Clôture des Journées de la mémoire\nDescription: Pour la clôture de la 11e édition, et dans le...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 22,
+    "texte": "Titre: Journées de la mémoire 2026 - Journée nationale en hommage aux victimes de l'esclavage coloni...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 23,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Evénement commémoratif de l'abolition de l'esclavage - déambul...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 24,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Arts vivants et Mémoire festive\"\nDescription: Concerts et dans...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 25,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Mémoire et liberté : briser les chaînes, transmettre la mémoir...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 26,
+    "texte": "Titre: Journées de la mémoire 2026 - Visite commentée \"Une boucle de ceinturon : la bataille de Ravi...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 27,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Le Panthéon des mémoires noires\"\nDescription: En 2026, nous co...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 28,
+    "texte": "Titre: Journées de la mémoire 2026 - Table ronde : \"Une loi peut-elle reconnaître l'histoire et répa...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 29,
+    "texte": "Titre: Journées de la mémoire 2026 - Lectures en déambulation \"Pièces à conviction\"\nDescription: Dan...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 30,
+    "texte": "Titre: Journées de la mémoire 2026 - Prestations artistiques - \"Sur les traces de l'esclavage\"\nDescr...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 31,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Free Haïti , mon pays dans tous mes rêves\"\nDescription: L'Asso...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 32,
+    "texte": "Titre: Journées de la mémoire 2026 \"De Sainte-Croix à la Rousselle, on se sucre à Saint-Michel !\"\nDe...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 33,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Jazzpora\"\nDescription: Swingtime Bordeaux vous invite à une co...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 34,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Musique, esclavage et colonisation au Brésil\"\nDescription: Con...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 35,
+    "texte": "Titre: Journées de la mémoire 2026 - Sortie de résidence - \"Diasporamas - un panorama des mondes dia...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 36,
+    "texte": "Titre: Journées de la mémoire 2026 - Visite commentée \"Journal de bord du Patriote\"\nDescription: Vis...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 37,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Visite - Bordeaux au 18e siècle, le commerce atlantique et l'e...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 38,
+    "texte": "Titre: Journées de la mémoire 2026 - Vernissage de l'exposition \"Esclavage et exploitation : portrai...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 39,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Esclavage et exploitations : quelles réalités au delà des diff...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 40,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Fête du drapeau et hommage à Toussaint Louverture\"\nDescription...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 41,
+    "texte": "Titre: Journées de la mémoire 2026 \"De Sainte-Croix à la Rousselle, on se sucre à Saint-Michel !\"\nDe...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 42,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Atelier d'expression vocal Gospel - Se libérer par le chant\"\nD...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 43,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Voix de femmes en arc de mémoire autour de Modeste Testas\"\nDes...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 44,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Voix de femmes en arc de mémoire autour de Modeste Testas\"\nDes...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 45,
+    "texte": "Titre: Journées de la mémoire 2026 - \"Mémoires et résiliences\"\nDescription: Soirée artistique et cit...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 46,
+    "texte": "Titre: Matinales du Management : Kaamelott ou apprendre à manager dans l’ère digitale\nDescription: L...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 47,
+    "texte": "Titre: D4Gen Hackathon 2026\nDescription: 48h intense d’innovation pour trouver des solutions digital...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 48,
+    "texte": "Titre: Séminaire ESSI - IA & entreprises : stratégies, cas d’usage et ateliers pratiques\nDescription...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 49,
+    "texte": "Titre: Challenge cybersécurité 404 CTF\nDescription: Télécom SudParis et la Direction Générale de la ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 50,
+    "texte": "Titre: Journées Portes Ouvertes de la FDME\nDescription: Participez aux Journées Portes Ouvertes pour...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 51,
+    "texte": "Titre: Sécurité économique : nouveaux risques, nouveaux enjeux\nDescription: Le Medef Essonne, en par...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 52,
+    "texte": "Titre: Journée Nationale de la Bioproduction de Biomédicaments\nDescription: Genopole et GenoTher, pr...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 53,
+    "texte": "Titre: L’impact de l’IA sur la transformation des métiers : quelles formations pour anticiper les be...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 54,
+    "texte": "Titre: Job Dating de l’IRFASE\nDescription: Le mercredi 10 juin 2026 de 14h à 17h se tiendra le job d...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 55,
+    "texte": "Titre: Forum de Printemps d'IMT-BS\nDescription: Une opportunité unique pour les entreprises de renco...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 56,
+    "texte": "Titre: FAIM 2026 : conférence internationale de référence sur l’Industrie 5.0\nDescription: Du 21 au ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 57,
+    "texte": "Titre: Conférence Thérapies Innovantes et Combinatoires\nDescription: Genopole, l’Université Évry Par...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 58,
+    "texte": "Titre: Conférence internationale IEEE ARM 2026 à l’Université Évry Paris-Saclay\nDescription: L’Unive...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 59,
+    "texte": "Titre: Colloque ÉvryBio 2026\nDescription: Un évènement conçu et porté par les talents des L3 Science...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 60,
+    "texte": "Titre: Scèn’Art Festival - Édition 2026\nDescription: Le Scèn’Art Festival 2026 se tiendra le mardi 1...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 61,
+    "texte": "Titre: Forum de recrutement - CFA EVE\nDescription: À l’occasion de la 20ᵉ édition de son Forum de Re...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 62,
+    "texte": "Titre: Colloque « Le travail de la transition »\nDescription: Colloque organisé par l'Icam sur le thè...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 63,
+    "texte": "Titre: Les mercredis de l'apprentissage de la FDME\nDescription: Participez aux « mercredis de l’appr...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 64,
+    "texte": "Titre: JobDating ensIIE & CFA EVE – Rencontrez vos futurs talents en informatique\nDescription: Le CF...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 65,
+    "texte": "Titre: Conférence MiCLOUD 2026 : La souveraineté numérique\nDescription: L’association MiNET de Téléc...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 66,
+    "texte": "Titre: Lancement du parcours Innov’Action - Université Évry Paris-Saclay\nDescription: Le 19 mars, l’...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 67,
+    "texte": "Titre: Les semi-conducteurs, le nouveau pétrole de l'économie mondiale - Les Matinales du Management...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 68,
+    "texte": "Titre: Écouter la vie | Lecture musicale autour de Annie Ernaux\nDescription: Une façon de se plonger...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 69,
+    "texte": "Titre: Dimanches sportifs JARDIN BOTANIQUE\nDescription: Les Dimanches Sportifs : un moment pour se r...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 70,
+    "texte": "Titre: Dimanches sportifs\nDescription: Bouger gratuitement en plein air au cœur de Bordeaux ! Le Jar...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 71,
+    "texte": "Titre: Dimanches sportifs JARDIN PUBLIC\nDescription: Les Dimanches Sportifs : un moment pour se retr...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 72,
+    "texte": "Titre: Dimanches sportifs PARC BORDELAIS\nDescription: Les Dimanches Sportifs : un moment pour se ret...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 73,
+    "texte": "Titre: atelier céramique enfant et parent/enfant\nDescription: 2h avec un·e enseignant·e-céramiste po...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 74,
+    "texte": "Titre: Stage modelage & végétal\nDescription: Choisissez la technique qui vous convient ou mixez-les ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 75,
+    "texte": "Titre: stage de sculpture animière\nDescription: Avec la céramiste Marine Teplitxky, vous apprendrez ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 76,
+    "texte": "Titre: Histoires du mercredi\nDescription: Lecture d'albums pour les enfants à partir de 3 ans, accom...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 77,
+    "texte": "Titre: Eveil Musical (COMPLET)\nDescription: Mise en musique d’un livre par Christine Bon, intervenan...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 78,
+    "texte": "Titre: Bébés lecteurs\nDescription: Activité d éveil pour les tout-petits de 9 mois à 2 ans : histoir...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 79,
+    "texte": "Titre: RDV Numérique\nDescription: Participez à un temps d'échange convivial autour de l'utilisation ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 80,
+    "texte": "Titre: Histoires d'en parler\nDescription: Café littéraire : venez parler de vos coups de cœur ou vos...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 81,
+    "texte": "Titre: Eveil Musical (COMPLET)\nDescription: Mise en musique d’un livre par Christine Bon, intervenan...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 82,
+    "texte": "Titre: Histoires d'en parler\nDescription: Présentation de lectures d'été avec la librairie &cetera\nD...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 83,
+    "texte": "Titre: Fête de la Musique\nDescription: Venez célébrer la musique à Totems : écoute au casque, atelie...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 84,
+    "texte": "Titre: Bébés lecteurs (COMPLET)\nDescription: Activité d éveil pour les tout-petits de 9 mois à 2 ans...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 85,
+    "texte": "Titre: Apéro bulles\nDescription: Présentation d’une sélection de nos nouveautés BD par le libraire s...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 86,
+    "texte": "Titre: Boom boom buzz\nDescription: L'équipe de Totems vous propose un quiz pop-culture : musique, ci...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 87,
+    "texte": "Titre: Partir en livres\nDescription: Histoires à écouter, jeux de société... et goûter à partager\nDé...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 88,
+    "texte": "Titre: Programme des conférences et ateliers\nDescription: Accompagnés des guides et jardiniers du do...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 89,
+    "texte": "Titre: la vue : vision perdue, paysage inexistant. Les jardins sont avant tout une mise en scène du ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 90,
+    "texte": "Titre: Expérience sensorielle au cours d’une visite libre de 2 heures. Les sens des visiteurs dont l...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 91,
+    "texte": "Titre: Les jardins royaux retrouvés\nDescription: Découvrez les anciens jardins du château de Blois d...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 92,
+    "texte": "Titre: Ateliers scolaires – Levez les yeux sur la chapelle Sainte-Radegonde !\nDescription: Des élève...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 93,
+    "texte": "Titre: Atelier de distillation et découverte des roses\nDescription: En mai et juin, tous les jours, ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 94,
+    "texte": "Titre: Dessine moi un coin de jardin\nDescription: Animation en partenariat avec l'école élémentaire ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 95,
+    "texte": "Titre: Découvrez le jardin de la Maison Dutilleux-Joy\nDescription: Le couple Henri DUTILLEUX (compos...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 96,
+    "texte": "Titre: Françoise vous ouvre son jardin et vous fera partager expérience,passion et astuces\nDescripti...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 97,
+    "texte": "Titre: Visite d'un jardin Zen\nDescription: Un jardin de ville Zen. \"Zen Flower\", c'est un espace pou...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 98,
+    "texte": "Titre: Jardin d'ornement\nDescription: Dans ce jardin, vous pourrez découvrir rosiers parfumés et pla...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 99,
+    "texte": "Titre: Promenade au jardin du Pré-Catelan\nDescription: Venez découvrir librement, seul ou en famille...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 100,
+    "texte": "Titre: Le Jardin de Camille\nDescription: ### Je serai ravie de vous accueillir dans ce que certains ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 101,
+    "texte": "Titre: À la découverte du jardin suspendu le plus ancien de France : Château Pierre de la Broce\nDesc...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 102,
+    "texte": "Titre: Visite découverte\nDescription: Ici, les enfants apprennent à cultiver, observer et se régalen...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 103,
+    "texte": "Titre: Une visite avec une vue sur le village\nDescription: Le jardin du vieil arbre vous offre une v...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 104,
+    "texte": "Titre: Visite commentée d’un jardin de gourmandises\nDescription: C'est un jardin de village qui asso...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 105,
+    "texte": "Titre: Visite libre du parc et des jardins\nDescription: C'est un parc et un potager qui entourent la...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 106,
+    "texte": "Titre: Visite découverte\nDescription: C'est un jardin de surprises où les végétaux sont mis à l'honn...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 107,
+    "texte": "Titre: Jardin d’odeurs, de couleurs et de saveurs\nDescription: Jardin d’odeurs, de couleurs et de sa...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 108,
+    "texte": "Titre: Visite jardin fleuri\nDescription: Vous serez accueillis par Nicole pour la visite de son jard...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 109,
+    "texte": "Titre: Jardin d’artiste\nDescription: Jardin d’agrément servant d’écrin à une grange à colombages du ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 110,
+    "texte": "Titre: Visite découverte\nDescription: Petit jardin qui procure de grands bonheurs, contemplation, ré...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 111,
+    "texte": "Titre: Chasse aux trésors dans le jardin de sculptures\nDescription: Explorez le jardin du musée et s...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 112,
+    "texte": "Titre: Tree Hug\nDescription: Venez admirer une installation végétale signée par l'artiste Monsieur P...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 113,
+    "texte": "Titre: Découverte d'un jardin extraordinaire au cœur du bois de Vincennes\nDescription: Un jardin, de...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 114,
+    "texte": "Titre: Visite guidée du la Roseraie du Clos Paradénia\nDescription: La propriétaire de la Roseraie du...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 115,
+    "texte": "Titre: Visite libre du jardin pédagogique de l'Île de la Jatte\nDescription: Cet été, partez à la déc...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 116,
+    "texte": "Titre: Visite libre des Jardins Renoir\nDescription: Découvrez les jardins du Musée de Montmartre où ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 117,
+    "texte": "Titre: Visite libre du Jardin des belles jardinières\nDescription: Bacs de permaculture. Les arbres s...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 118,
+    "texte": "Titre: Portes ouvertes du jardin partagé Félicie Hervieu de Châtillon\nDescription: Chaque samedi est...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 119,
+    "texte": "Titre: Visite du jardin Isara\nDescription: Visite guidée du verger et des parcelles potagères sur 15...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 120,
+    "texte": "Titre: L'Oise dans tous ses états\nDescription: Panneaux de photos anciennes et récits de témoignages...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 121,
+    "texte": "Titre: Rando-Patrimoine à Milly-la-Forêt par Enlarge Your Paris\nDescription: Nouvelle rando-patrimoi...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 122,
+    "texte": "Titre: Démonstration de taille des vergers historiques\nDescription: Démonstration de taille des verg...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 123,
+    "texte": "Titre: Jardins ouverts à la Cour Jardinée : ventes et rencontres\nDescription: Fête de l'été, visite ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 124,
+    "texte": "Titre: Exposition de Sofia Appel-Padilla, Sandra Bouchet et Vanessa Padilla\nDescription: Une exposit...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 125,
+    "texte": "Titre: Atelier dansé \"Être paysage\" avec Françoise Tartinville de la CIE Atmen\nDescription: Cet atel...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 126,
+    "texte": "Titre: Visite du jardin de sculptures du MAC VAL\nDescription: Visite libre du jardin agrémenté de sc...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 127,
+    "texte": "Titre: Visite de la Maison de Retraite des Artistes\nDescription: Visite guidée du parc de 4Ha et des...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 128,
+    "texte": "Titre: Installation artistique par Ilona Mikneviciute\nDescription: L’artiste lituanienne Ilona Mikne...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 129,
+    "texte": "Titre: Visite libre du musée (Jardin en accès libre)\nDescription: Découvrez la collection du musée e...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 130,
+    "texte": "Titre: Solstice, promenade et pique-nique dans un jardin remarquable\nDescription: Immersion créative...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 131,
+    "texte": "Titre: Escape game\nDescription: Lancez vous dans une aventure ludique et pleine d’esprit !\nDétails: ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 132,
+    "texte": "Titre: Fantastiques insectes !\nDescription: Exposition de photographies d'insectes grand format\nDéta...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 133,
+    "texte": "Titre: Visite des jardins de l'abbaye de Flaran\nDescription: À l’abbaye de Flaran, à côté des bâtime...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 134,
+    "texte": "Titre: Visite permaculturelle du jardin de l'écoïncidence\nDescription: Visite sous forme de conféren...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 135,
+    "texte": "Titre: Conférence : Le jardinier André le Nôtre dans son époque\nDescription: Conférence présentée pa...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 136,
+    "texte": "Titre: Enquête : « Mais où a disparu Miss Banana ? »\nDescription: Qui est la victime et qui sont ses...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 137,
+    "texte": "Titre: Spectacle \"Tistou les pouces verts\"\nDescription: À l’occasion des Rendez-vous aux jardins, la...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 138,
+    "texte": "Titre: Sentier botanique de l'îlot\nDescription: Le sentier de l’Îlot propose une agréable balade fam...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 139,
+    "texte": "Titre: Randonnée du Castera et de Monléon\nDescription: Partez pour une escapade champêtre le long de...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 140,
+    "texte": "Titre: Randonnée chemin de Coume Tourte\nDescription: Découvrez la commune au fil d’un parcours entre...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 141,
+    "texte": "Titre: Visite libre du sentier nature\nDescription: Parcourez Martres-Tolosane à travers un itinérair...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 142,
+    "texte": "Titre: Santier Botanique de Mauressac\nDescription: Découvrez le sentier botanique de Mauressac, un p...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 143,
+    "texte": "Titre: Géocaching\nDescription: Partez à l’aventure entre Mauran et Montclar-de-Comminges grâce à un ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 144,
+    "texte": "Titre: Découverte du jardin en recherchant des indices\nDescription: Au moyen de différents outils in...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 145,
+    "texte": "Titre: Visite pour les scolaires : découverte pédagogique\nDescription: Visite découverte de la diver...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 146,
+    "texte": "Titre: Visite libre du parc Rochegude\nDescription: Visite libre du jardin. Une signalétique permet d...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 147,
+    "texte": "Titre: Visite libre du Jardin du palais de la Berbie\nDescription: Ancienne place d’armes créée au XV...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 148,
+    "texte": "Titre: Parcours : ACTE#6 : Amitié et biodiversité\nDescription: Pour la 6e édition, les Rencontres de...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 149,
+    "texte": "Titre: Visite, expositions et concert dans un jardin du Ségala\nDescription: Visite d'un jardin plant...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 150,
+    "texte": "Titre: Parcours botanique des Martinets du Lézert\nDescription: Au cœur des gorges du Lézert, profite...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 151,
+    "texte": "Titre: Visite du jardin et exposition photo\nDescription: Pendant trois jours le public découvrira le...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 152,
+    "texte": "Titre: Voir sans être vu, au jardin des Ombelles Albigeoises\nDescription: Apercevez l’horizon au dét...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 153,
+    "texte": "Titre: Un week-end entre nature, art et imaginaire\nDescription: Les samedi 6 et dimanche 7 juin 2026...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 154,
+    "texte": "Titre: Visite libre : créations de l'homme et créations de la nature\nDescription: Découvrez notre ja...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 155,
+    "texte": "Titre: Festival de la biodiversité en Camargue : Acte # 6\nDescription: Les rencontres de la biosphèr...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 156,
+    "texte": "Titre: L'art et moi - Personnes en situation de handicap\nDescription: Un moment d'exploration pour s...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 157,
+    "texte": "Titre: Henri Rivière et le japonisme - conférence\nDescription: La découverte de l'art japonais par H...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 158,
+    "texte": "Titre: Spectacle \"En chute libre\"\nDescription: À l'occasion de la Nuit du Handicap, le musée propose...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 159,
+    "texte": "Titre: Atelier adulte - la gouache\nDescription: Découvrez les plaisirs de la gouache avec Yves-Marie...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 160,
+    "texte": "Titre: Théâtre et mouvement dansé - Personnes en situation de handicap\nDescription: Notre corps, on ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 161,
+    "texte": "Titre: Rencontre avec une restauratrice en livres anciens\nDescription: Gwendoline Lemée travaille su...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 162,
+    "texte": "Titre: Découverte nocturne des collections\nDescription: Visiter gratuitement et en soirée les collec...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 163,
+    "texte": "Titre: Atelier Horizons multiples\nDescription: En s'inspirant de la composition des œuvres d'Henri R...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 164,
+    "texte": "Titre: Inauguration de la Place des Beaux-Sons d’Aubervilliers par la Compagnie Décor Sonore\nDescrip...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 165,
+    "texte": "Titre: Les Mercredis du Pôle\nDescription: Des ateliers pour enfant, tous les mercredis au Pôle Cultu...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 166,
+    "texte": "Titre: Semaine de découverte Culturelle & Scientifique\nDescription: Plusieurs activités tout au long...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 167,
+    "texte": "Titre: Les Mercredis du Pôle - Atelier \" Arduino \"\nDescription: À la Découverte de l’Électronique et...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 168,
+    "texte": "Titre: Exposition \" Intelligences : du naturel au numérique \"\nDescription: Exposition produite par l...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 169,
+    "texte": "Titre: Les Journées du Climat 2025\nDescription: Célébrons notre atmosphère actuelle tout en abordant...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 170,
+    "texte": "Titre: La Sainte Barbe 2025 au Pôle culturel et scientifique de Rochebelle\nDescription: Deux journée...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 171,
+    "texte": "Titre: Fête de la Science - Village des Sciences du Pôle Culturel et scientifique de Rochebelle\nDesc...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 172,
+    "texte": "Titre: Repair Café\nDescription: Apportez vos appareils défectueux et nous vous aiderons à les répare...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 173,
+    "texte": "Titre: Conférence : \"Le chemin de Régordane, une route à péage au Moyen Âge\"\nDescription: Organisée ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 174,
+    "texte": "Titre: Deux stages de réalisation pendant les vacances d’été\nDescription: Itinérances propose deux s...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 175,
+    "texte": "Titre: Jonglez, vous êtes filmé·e·s ! #2\nDescription: Stage jonglage & vidéo : Lancez vous dans un p...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 176,
+    "texte": "Titre: Sous le Ciel de Printemps\nDescription: Séance de Planétarium Tout Public à partir de 8ans\nDét...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 177,
+    "texte": "Titre: Pollinisateurs en action\nDescription: jeux en autonomie sur la pollinisation et les abeilles\n...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 178,
+    "texte": "Titre: Rendez-vous aux Jardins\nDescription: Au château de La Bussière, ce rendez-vous est l’occasion...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 179,
+    "texte": "Titre: Petite Promenade : Hansel et Gretel\nDescription: Redécouvrez le conte d'Hansel et Gretel : le...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 180,
+    "texte": "Titre: Concert : Une nuit à l'opéra\nDescription: Plongez dans la passion de l'opéra italien avec la ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 181,
+    "texte": "Titre: Petite Promenade : Duo Morfin-Ziad\nDescription: Au château de Crèvecœur, le duo Morfin-Ziad i...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 182,
+    "texte": "Titre: Inattendu : Accordéon en balade\nDescription: Tendez l’oreille au marché de Saint-Pierre-sur-D...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 183,
+    "texte": "Titre: Petite Promenade : Histoire(s) de lanterne magique\nDescription: Plongez aux origines du ciném...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 184,
+    "texte": "Titre: Concert : La harpe, le philtre et l’épée\nDescription: L'ensemble Apotropaïk ravive le mythe d...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 185,
+    "texte": "Titre: Petite Promenade : Mon premier concert\nDescription: Une parenthèse musicale douce pour les to...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 186,
+    "texte": "Titre: Concert : Alla Bastarda - L’extraordinaire ornement\nDescription: Laissez-vous éblouir par l'a...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 187,
+    "texte": "Titre: Concert : Le Coup de Majesté\nDescription: Transportez-vous au Louvre sous le jeune Louis XIV ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 188,
+    "texte": "Titre: Petite Promenade : Les caractères de la flûte\nDescription: Aux flûtes à bec et traversières, ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 189,
+    "texte": "Titre: Concert : La séduction et l’enchantement\nDescription: Laissez-vous charmer par ce duo vocal r...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 190,
+    "texte": "Titre: Inattendu : Éclats de cuivres à Lisieux\nDescription: Sonorités cuivrées, arpèges harmonieux, ...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 191,
+    "texte": "Titre: Concert : Cantates de Weimar\nDescription: L'Ensemble Correspondances sublime le génie du jeun...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 192,
+    "texte": "Titre: Concert : Berlin dans la lumière\nDescription: Plongez dans l'atmosphère effervescente du Berl...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  },
+  {
+    "index": 193,
+    "texte": "Titre: Petite Promenade : Paolo, l’accordéon et moi\nDescription: Embarquez pour un récit musical int...",
+    "erreur": "[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée"
+  }
+]

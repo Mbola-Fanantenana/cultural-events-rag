@@ -1,0 +1,61 @@
+# Environnement virtuel
+venv/
+env/
+ENV/
+.venv/
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Variables d'environnement
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Logs (on garde le dossier visible via .gitkeep)
+*.log
+logs/*
+!logs/.gitkeep
+
+# Snapshots horodatés de données (volumineux, régénérables)
+# Les fichiers principaux (evenements_bruts.json, embeddings.npy, faiss.index...)
+# restent trackés, seuls les sous-dossiers de versions sont exclus.
+data/raw/versions/*
+!data/raw/versions/.gitkeep
+data/processed/versions/*
+!data/processed/versions/.gitkeep
+data/embeddings/versions/*
+!data/embeddings/versions/.gitkeep
+data/vectorstore/versions/*
+!data/vectorstore/versions/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Kilo Code : sessions/worktrees internes (PAS .kilocode/, qui contient les skills à versionner)
+.kilo/
