@@ -204,8 +204,7 @@ rag_project/
         │   └── response_generator.py # Génération de réponse via chaîne LCEL
         ├── rag/
         │   └── rag_pipeline.py # Orchestration retriever -> generator
-        ├── vectorstore/        # Gestion de l'index FAISS
-        └── evaluator/          # Évaluation de la qualité des réponses
+        └── vectorstore/  # Gestion de l'index FAISS
 ```
 
 ---
